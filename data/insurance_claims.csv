@@ -1,0 +1,1001 @@
+claim_id,policy_id,claim_date,claim_type,policy_type,claim_amount,claim_status,region,handler,settlement_days,customer_age,fraud_flag,priority
+CLM100000,POL59832,16-10-2024,Liability,Bronze,81912.08,Closed,West,Agent_A,158,68,0,Medium
+CLM100001,POL29369,25-04-2023,Property,Gold,97321.39,Under Review,South,Agent_B,,33,0,Low
+CLM100002,POL99224,26-01-2023,Motor,Gold,136307.51,Pending,East,Agent_D,,37,0,Low
+CLM100003,POL41745,09-10-2023,Motor,Silver,124081.36,Closed,Central,Agent_E,36,45,0,Medium
+CLM100004,POL14138,08-09-2023,Health,Bronze,11175.77,Open,East,Agent_D,,40,0,Low
+CLM100005,POL85047,17-08-2023,Travel,Platinum,25305.46,Open,West,Agent_C,,29,0,Medium
+CLM100006,POL24404,23-05-2023,Life,Platinum,46487.97,Open,South,Agent_D,,52,0,Low
+CLM100007,POL35006,15-04-2023,Liability,Platinum,112469.18,Rejected,North,Agent_D,,42,0,Low
+CLM100008,POL12482,23-11-2024,Property,Gold,85596.45,Closed,West,Agent_D,53,38,0,Medium
+CLM100009,POL67807,12-07-2024,Life,Platinum,43647.28,Pending,East,Agent_D,,44,0,Low
+CLM100010,POL51116,31-03-2023,Liability,Platinum,19090.87,Open,South,Agent_E,,58,0,Low
+CLM100011,POL64890,27-08-2024,Motor,Platinum,103457.36,Under Review,East,Agent_B,,37,0,Medium
+CLM100012,POL29848,08-03-2024,Travel,Silver,105110.19,Rejected,North,Agent_B,,27,0,Low
+CLM100013,POL64127,02-02-2023,Motor,Bronze,141430.1,Open,West,Agent_D,,29,0,High
+CLM100014,POL36724,31-01-2023,Travel,Silver,75320.59,Open,West,Agent_B,,46,0,Low
+CLM100015,POL63788,06-04-2023,Health,Bronze,74322.39,Open,Central,Agent_B,,39,0,Low
+CLM100016,POL75774,12-08-2023,Liability,Silver,12526.06,Closed,East,Agent_E,53,46,0,Medium
+CLM100017,POL90147,27-08-2023,Life,Bronze,,Closed,Central,Agent_D,16,33,0,Low
+CLM100018,POL71814,01-06-2024,Motor,Platinum,65088.29,Closed,West,Agent_C,146,36,0,Low
+CLM100019,POL18163,08-09-2024,Travel,Platinum,48687.08,Closed,South,Agent_D,90,47,1,Low
+CLM100020,POL28098,28-01-2023,Travel,Platinum,37930,Closed,Central,Agent_B,137,62,0,Low
+CLM100021,POL77984,28-07-2024,Motor,Silver,14153.37,Open,South,Agent_C,,66,0,High
+CLM100022,POL37176,23-07-2023,Life,Platinum,144305.71,Closed,Central,Agent_B,72,47,0,Low
+CLM100023,POL83516,27-10-2024,Liability,Gold,125475.81,Closed,East,Agent_B,153,68,0,High
+CLM100024,POL52604,19-12-2024,Health,Bronze,86492.27,Closed,East,Agent_A,138,53,0,High
+CLM100025,POL96799,12-07-2024,Health,Silver,142642.55,Pending,West,Agent_A,,31,0,Medium
+CLM100026,POL72701,05-03-2024,Property,Platinum,149936.08,Open,East,Agent_A,,37,1,High
+CLM100027,POL78875,14-08-2023,Property,Platinum,,Closed,Central,Agent_B,44,28,0,Low
+CLM100028,POL59391,04-04-2024,Property,Bronze,40791.9,Closed,Central,Agent_D,83,38,0,Critical
+CLM100029,POL51124,26-08-2024,Life,Platinum,6514.64,Open,South,Agent_D,,44,0,Low
+CLM100030,POL32699,12-10-2023,Liability,Platinum,113562.19,Closed,North,Agent_B,75,47,0,Medium
+CLM100031,POL70249,07-01-2023,Liability,Bronze,70839.87,Open,Central,Agent_A,,42,0,Medium
+CLM100032,POL79878,13-06-2023,Property,Bronze,97900.67,Open,South,Agent_B,,43,0,Low
+CLM100039,POL54869,15-12-2024,Property,Gold,137452.88,Under Review,West,Agent_D,,28,0,Medium
+CLM100034,POL81601,08-03-2024,Life,Gold,27632.63,Under Review,East,Agent_D,,35,0,Medium
+CLM100035,POL56437,15-12-2023,Property,Bronze,88006.78,Rejected,East,Agent_E,,36,0,Low
+CLM100036,POL98587,12-10-2023,Health,Silver,95400.32,Closed,Central,Agent_D,75,74,0,Low
+CLM100037,POL99226,09-06-2023,Motor,Gold,74013.01,Open,East,Agent_E,,28,0,Medium
+CLM100038,POL94319,09-08-2023,Health,Bronze,14140.74,Pending,West,Agent_B,,30,0,Medium
+CLM100039,POL44650,11-12-2023,Health,Platinum,52520.18,Closed,North,Agent_D,147,72,0,Critical
+CLM100040,POL89963,15-04-2023,Travel,Silver,50329.6,Open,Central,Agent_E,,69,0,High
+CLM100041,POL73462,05-04-2023,Motor,Platinum,100684.96,Closed,West,Agent_D,69,29,1,Critical
+CLM100042,POL35200,25-01-2024,Health,Gold,128731.1,Open,South,Agent_E,,71,0,Medium
+CLM100043,POL42311,10-04-2023,Motor,Platinum,49805.65,Under Review,North,Agent_D,,44,0,Low
+CLM100044,POL46569,03-01-2024,Health,Silver,104204.21,Closed,Central,Agent_D,132,50,0,Low
+CLM100045,POL83149,19-12-2023,Life,Bronze,43588.56,Pending,East,Agent_C,,39,0,High
+CLM100046,POL49124,10-09-2024,Life,Bronze,141806.43,Closed,Central,Agent_B,174,52,0,Medium
+CLM100047,POL39473,28-09-2023,Property,Silver,122128.12,Closed,South,Agent_B,25,51,0,Low
+CLM100048,POL49008,14-02-2023,Life,Platinum,82739.44,Closed,East,Agent_D,35,73,0,Low
+CLM100049,POL47880,15-04-2024,Motor,Platinum,68496.47,Open,North,Agent_E,,60,0,Critical
+CLM100050,POL37168,03-07-2024,Travel,Silver,47520.31,Under Review,Central,Agent_A,,56,0,Medium
+CLM100051,POL74094,08-05-2023,Property,Bronze,48829.43,Pending,West,Agent_E,,39,0,Medium
+CLM100052,POL51555,23-01-2024,Health,Platinum,,Under Review,South,Agent_D,,63,0,Medium
+CLM100053,POL72888,22-03-2023,Life,Gold,60924.17,Rejected,Central,Agent_B,,60,0,Low
+CLM100054,POL55718,19-07-2024,Property,Silver,77432.14,Closed,West,Agent_E,106,38,0,Low
+CLM100055,POL83464,28-10-2023,Life,Gold,148223.82,Under Review,Central,Agent_C,,35,0,Low
+CLM100056,POL45842,05-10-2024,Property,Gold,98820.23,Open,South,Agent_D,,52,0,Low
+CLM100057,POL47721,25-09-2024,Motor,Bronze,81617.74,Open,Central,Agent_E,,45,0,High
+CLM100058,POL25974,06-01-2024,Motor,Silver,62280.51,Open,East,Agent_E,,56,1,Medium
+CLM100059,POL85166,14-08-2024,Health,Platinum,28543.59,Closed,East,Agent_C,16,65,0,High
+CLM100060,POL98686,16-07-2023,Liability,Platinum,54586.01,Closed,West,Agent_A,71,66,0,High
+CLM100061,POL81197,22-12-2024,Property,Silver,113588.25,Closed,East,Agent_A,168,55,0,Low
+CLM100062,POL59767,13-03-2023,Liability,Bronze,93998.61,Rejected,North,Agent_E,,24,0,Medium
+CLM100063,POL61712,16-02-2023,Liability,Platinum,114118.59,Closed,North,Agent_D,33,58,0,Medium
+CLM100064,POL55237,08-11-2024,Travel,Platinum,30931.96,Closed,Central,Agent_C,180,64,0,High
+CLM100065,POL29198,22-08-2023,Motor,Platinum,82608.34,Closed,North,Agent_A,34,61,0,Low
+CLM100066,POL48070,24-10-2023,Health,Bronze,139187.08,Open,North,Agent_E,,47,0,Medium
+CLM100067,POL15513,23-03-2023,Property,Platinum,65998.36,Rejected,South,Agent_D,,44,1,Medium
+CLM100068,POL47700,27-08-2023,Health,Platinum,104888.38,Open,South,Agent_A,,65,0,Low
+CLM100069,POL20358,14-04-2023,Motor,Gold,18653.2,Under Review,North,Agent_B,,60,0,Low
+CLM100070,POL55398,25-01-2024,Liability,Bronze,145985.45,Pending,South,Agent_E,,36,1,Medium
+CLM100071,POL67983,12-10-2023,Health,Platinum,91526.31,Open,North,Agent_C,,70,0,Medium
+CLM100072,POL95979,09-04-2024,Property,Bronze,36274.97,Open,West,Agent_D,,25,0,Low
+CLM100073,POL43612,12-10-2024,Life,Bronze,24177.54,Rejected,South,Agent_E,,50,0,Medium
+CLM100074,POL72793,09-01-2024,Travel,Platinum,82850.43,Pending,North,Agent_A,,43,0,Low
+CLM100075,POL38047,16-06-2023,Motor,Platinum,83061.59,Pending,North,Agent_E,,46,0,Medium
+CLM100076,POL36485,15-01-2024,Liability,Bronze,14434.78,Pending,Central,Agent_E,,34,0,Low
+CLM100077,POL80592,30-12-2023,Property,Bronze,148842.44,Open,West,Agent_A,,39,0,High
+CLM100078,POL45537,03-08-2023,Property,Bronze,136983.02,Closed,West,Agent_B,64,54,0,Low
+CLM100079,POL83664,17-11-2024,Health,Gold,69486.46,Open,Central,Agent_D,,37,0,Low
+CLM100080,POL45601,01-10-2023,Motor,Silver,18061.19,Rejected,Central,Agent_A,,66,0,Low
+CLM100081,POL27992,19-12-2024,Life,Platinum,124905.4,Closed,Central,Agent_E,38,63,0,Low
+CLM100082,POL24316,30-11-2024,Life,Gold,75007.14,Closed,East,Agent_E,83,65,0,Medium
+CLM100083,POL90698,25-10-2024,Travel,Gold,107632.2,Open,North,Agent_C,,23,0,Low
+CLM100084,POL86917,15-03-2023,Liability,Bronze,76576.37,Closed,East,Agent_E,64,56,1,High
+CLM100085,POL41363,15-09-2024,Travel,Silver,41377.02,Closed,South,Agent_A,174,63,0,Low
+CLM100086,POL41779,12-10-2024,Health,Platinum,125291.23,Pending,Central,Agent_C,,55,0,Low
+CLM100087,POL16653,25-06-2023,Motor,Gold,147046.57,Closed,North,Agent_E,101,51,0,Low
+CLM100088,POL97796,30-06-2024,Life,Platinum,36937.77,Rejected,North,Agent_A,,34,0,Low
+CLM100089,POL79604,08-09-2023,Motor,Gold,82914.13,Closed,South,Agent_D,126,34,0,Low
+CLM100090,POL39579,17-06-2023,Health,Platinum,57846.11,Open,West,Agent_D,,39,0,Medium
+CLM100091,POL93616,18-04-2024,Motor,Bronze,138319.29,Pending,North,Agent_E,,53,0,Medium
+CLM100092,POL40518,24-01-2024,Motor,Bronze,76482.01,Pending,West,Agent_D,,53,0,Medium
+CLM100093,POL16880,04-10-2023,Motor,Silver,131959.28,Closed,North,Agent_E,37,56,0,Medium
+CLM100094,POL23133,17-10-2024,Health,Bronze,129672.03,Pending,East,Agent_C,,60,0,Medium
+CLM100095,POL64172,05-12-2024,Health,Gold,41798.99,Closed,Central,Agent_D,148,67,0,Low
+CLM100096,POL53292,24-07-2024,Health,Gold,118605.92,Closed,West,Agent_C,162,73,0,Medium
+CLM100097,POL71918,13-08-2023,Life,Gold,62533.89,Closed,East,Agent_C,69,50,0,Critical
+CLM100098,POL23178,02-12-2024,Property,Gold,140170.13,Open,North,Agent_C,,70,0,Medium
+CLM100099,POL99285,29-11-2023,Liability,Bronze,76406.78,Open,Central,Agent_B,,50,0,Medium
+CLM100100,POL28018,27-02-2023,Liability,Bronze,123172.15,Open,East,Agent_A,,74,0,Low
+CLM100101,POL10679,23-08-2023,Liability,Silver,42784.43,Closed,Central,Agent_E,161,65,1,High
+CLM100102,POL82135,02-02-2023,Motor,Platinum,45134.1,Closed,North,Agent_C,107,37,0,High
+CLM100103,POL30701,20-11-2023,Travel,Silver,88247.19,Closed,North,Agent_E,97,65,1,Medium
+CLM100049,POL63334,15-02-2024,Travel,Platinum,149835.9,Under Review,East,Agent_C,,68,0,Critical
+CLM100105,POL95575,02-10-2023,Property,Bronze,73701.23,Open,North,Agent_A,,31,0,Low
+CLM100106,POL72350,09-03-2023,Motor,Gold,22715.02,Closed,South,Agent_D,116,51,0,Low
+CLM100107,POL72580,05-08-2023,Motor,Silver,81017.8,Pending,Central,Agent_E,,46,0,High
+CLM100108,POL95267,03-08-2024,Motor,Silver,52096.03,Open,North,Agent_B,,60,0,High
+CLM100109,POL36143,19-11-2023,Health,Bronze,83011.65,Open,North,Agent_E,,41,0,Low
+CLM100110,POL47649,06-08-2023,Liability,Platinum,81742.79,Closed,South,Agent_A,20,26,0,Low
+CLM100111,POL52096,02-11-2024,Life,Silver,68574.02,Open,Central,Agent_C,,22,0,Low
+CLM100112,POL47409,26-05-2024,Health,Platinum,,Under Review,West,Agent_E,,51,0,Low
+CLM100113,POL94659,10-02-2024,Motor,Silver,28703.53,Rejected,South,Agent_A,,70,0,High
+CLM100114,POL17754,20-10-2024,Property,Gold,104776.01,Closed,South,Agent_C,163,24,0,Medium
+CLM100115,POL21725,14-04-2024,Motor,Bronze,85983.75,Rejected,Central,Agent_D,,66,0,Low
+CLM100116,POL95498,27-05-2023,Motor,Platinum,35417.59,Rejected,South,Agent_A,,35,0,Low
+CLM100117,POL85252,29-09-2023,Life,Bronze,116443.9,Open,Central,Agent_B,,51,0,Low
+CLM100118,POL40437,23-05-2023,Motor,Bronze,7025.27,Rejected,South,Agent_E,,71,1,Low
+CLM100119,POL80143,10-09-2023,Health,Platinum,111833.42,Closed,Central,Agent_A,24,25,0,Medium
+CLM100120,POL14888,28-07-2024,Travel,Platinum,105931.57,Rejected,Central,Agent_C,,39,0,Critical
+CLM100121,POL32946,05-07-2024,Life,Silver,121805.63,Rejected,West,Agent_C,,58,1,High
+CLM100122,POL64773,27-09-2023,Liability,Platinum,58218.77,Closed,North,Agent_B,104,46,0,Low
+CLM100123,POL33040,21-08-2024,Life,Bronze,99721.48,Open,Central,Agent_E,,69,0,High
+CLM100124,POL14763,14-03-2024,Life,Bronze,123201.76,Open,East,Agent_C,,22,0,High
+CLM100125,POL62034,20-08-2024,Motor,Platinum,147132.31,Closed,West,Agent_C,132,74,0,High
+CLM100126,POL74930,13-02-2024,Life,Platinum,74551.63,Rejected,West,Agent_C,,67,0,Medium
+CLM100127,POL34420,06-01-2024,Liability,Silver,6034.43,Rejected,North,Agent_A,,36,0,Low
+CLM100128,POL47941,13-08-2023,Life,Silver,75592.53,Open,South,Agent_A,,30,0,Low
+CLM100129,POL14910,22-05-2023,Health,Silver,88731.97,Closed,South,Agent_E,72,36,0,Low
+CLM100130,POL11214,05-06-2024,Property,Bronze,130520.2,Closed,Central,Agent_B,178,70,1,Low
+CLM100131,POL49110,20-05-2024,Health,Platinum,131191.46,Open,West,Agent_E,,45,0,Low
+CLM100132,POL84443,04-04-2023,Health,Gold,66325.78,Open,Central,Agent_B,,25,0,Medium
+CLM100133,POL89007,18-02-2023,Property,Platinum,79129.69,Closed,East,Agent_D,95,33,0,Medium
+CLM100134,POL24064,23-04-2023,Property,Platinum,68810.75,Under Review,South,Agent_C,,58,0,Medium
+CLM100135,POL53914,06-06-2023,Life,Silver,108505.35,Closed,Central,Agent_B,117,58,0,Low
+CLM100136,POL47298,04-10-2024,Health,Gold,61791.8,Closed,Central,Agent_C,125,64,0,Critical
+CLM100137,POL69552,13-06-2023,Motor,Platinum,98389.81,Pending,West,Agent_B,,27,0,Critical
+CLM100138,POL94058,27-11-2024,Travel,Gold,23577,Closed,East,Agent_D,84,60,0,High
+CLM100139,POL81211,08-03-2024,Travel,Gold,70688.84,Under Review,East,Agent_B,,67,0,Critical
+CLM100140,POL78723,02-09-2024,Travel,Platinum,145395.94,Under Review,Central,Agent_E,,45,0,Medium
+CLM100141,POL74738,07-03-2023,Health,Silver,51114.9,Closed,East,Agent_A,149,32,0,Critical
+CLM100142,POL27589,30-01-2024,Liability,Silver,104059.34,Closed,East,Agent_C,1,34,0,Low
+CLM100143,POL76088,26-01-2024,Property,Platinum,,Closed,West,Agent_A,24,55,0,Low
+CLM100144,POL71344,02-09-2024,Life,Gold,127838.91,Closed,West,Agent_B,118,46,0,Low
+CLM100145,POL45761,24-04-2024,Life,Gold,127925.03,Open,East,Agent_E,,28,0,Low
+CLM100146,POL35272,25-06-2024,Travel,Silver,128971.66,Closed,Central,Agent_B,163,73,0,Low
+CLM100147,POL24764,15-09-2023,Life,Silver,57311.4,Closed,South,Agent_D,171,25,0,Medium
+CLM100148,POL53343,20-07-2024,Motor,Silver,47840.84,Open,Central,Agent_D,,29,0,High
+CLM100149,POL31298,12-01-2023,Motor,Gold,107948.26,Closed,Central,Agent_D,179,41,0,Medium
+CLM100150,POL70150,27-11-2024,Property,Gold,114030.57,Under Review,South,Agent_B,,50,0,Low
+CLM100151,POL94972,28-04-2023,Life,Silver,130921.26,Open,West,Agent_D,,74,0,High
+CLM100152,POL43720,29-11-2024,Health,Silver,,Open,Central,Agent_B,,72,0,Medium
+CLM100153,POL34405,03-07-2024,Life,Gold,10728.9,Closed,East,Agent_B,92,66,0,Low
+CLM100154,POL11846,01-10-2023,Health,Bronze,94858.57,Under Review,East,Agent_E,,67,0,Medium
+CLM100155,POL54185,18-10-2024,Liability,Gold,138178.9,Open,West,Agent_C,,31,0,Low
+CLM100156,POL48669,15-12-2023,Travel,Platinum,149615.18,Pending,West,Agent_A,,64,0,Low
+CLM100157,POL84420,25-04-2023,Health,Platinum,112141.57,Pending,West,Agent_C,,55,1,High
+CLM100158,POL98395,28-10-2023,Liability,Gold,65378.74,Open,North,Agent_A,,47,0,Low
+CLM100159,POL35318,21-03-2024,Travel,Platinum,15217.25,Pending,North,Agent_A,,62,1,Medium
+CLM100160,POL33002,11-06-2023,Motor,Bronze,95245.3,Closed,East,Agent_B,17,70,0,High
+CLM100161,POL90079,09-04-2024,Life,Bronze,130950.6,Closed,Central,Agent_D,137,24,0,Medium
+CLM100162,POL93719,04-01-2023,Liability,Bronze,66829.94,Closed,North,Agent_D,102,27,0,Low
+CLM100163,POL63148,27-09-2023,Property,Platinum,104253.17,Closed,Central,Agent_D,56,26,0,Low
+CLM100164,POL66059,27-05-2024,Life,Silver,135561.9,Open,South,Agent_C,,26,0,Low
+CLM100165,POL77538,02-07-2023,Travel,Bronze,7375.65,Rejected,East,Agent_D,,68,0,Medium
+CLM100166,POL52982,03-06-2024,Life,Bronze,,Closed,North,Agent_E,110,44,0,Medium
+CLM100167,POL21368,19-04-2023,Property,Silver,44358.48,Open,East,Agent_B,,70,0,Low
+CLM100168,POL62538,02-10-2024,Travel,Gold,56538.74,Open,South,Agent_D,,30,0,Critical
+CLM100169,POL97720,02-11-2023,Travel,Silver,22262.68,Closed,South,Agent_D,55,56,0,Medium
+CLM100170,POL22502,16-10-2024,Property,Gold,79909.36,Pending,East,Agent_D,,41,0,Low
+CLM100171,POL34219,03-06-2024,Life,Gold,85106.25,Open,North,Agent_C,,70,0,Medium
+CLM100172,POL28430,15-09-2024,Property,Silver,118981.66,Closed,East,Agent_B,127,63,0,Medium
+CLM100173,POL72580,23-07-2023,Health,Bronze,25912.56,Open,Central,Agent_E,,56,0,Low
+CLM100174,POL52415,06-06-2023,Motor,Gold,,Closed,Central,Agent_D,69,71,0,Low
+CLM100175,POL42512,18-01-2024,Property,Silver,130690.52,Open,Central,Agent_A,,39,0,High
+CLM100176,POL10895,15-06-2023,Travel,Bronze,93146.7,Pending,Central,Agent_C,,38,1,Medium
+CLM100177,POL44181,06-07-2024,Health,Gold,36504.05,Closed,Central,Agent_D,83,45,0,Medium
+CLM100178,POL60275,27-06-2024,Motor,Platinum,136967.94,Under Review,South,Agent_D,,24,0,Medium
+CLM100179,POL40870,01-01-2023,Property,Bronze,21896.1,Open,North,Agent_C,,53,0,Low
+CLM100180,POL68554,05-09-2024,Motor,Silver,69441.91,Closed,North,Agent_E,73,56,0,Low
+CLM100181,POL44995,28-11-2023,Life,Platinum,38469.61,Open,West,Agent_A,,59,0,Medium
+CLM100182,POL53204,15-05-2024,Travel,Silver,38671.34,Under Review,East,Agent_A,,34,0,Low
+CLM100183,POL49576,20-01-2023,Property,Gold,1904.92,Rejected,South,Agent_E,,68,0,Low
+CLM100184,POL86344,25-04-2023,Travel,Bronze,120792.65,Closed,South,Agent_C,87,46,0,High
+CLM100185,POL85088,07-01-2024,Health,Platinum,135230.81,Pending,East,Agent_D,,30,0,Critical
+CLM100186,POL11498,11-11-2023,Health,Platinum,101802.83,Rejected,East,Agent_E,,25,0,High
+CLM100187,POL44282,03-09-2023,Motor,Platinum,24117.36,Closed,Central,Agent_C,141,35,0,High
+CLM100188,POL95679,01-03-2023,Health,Gold,66538.6,Closed,South,Agent_C,148,58,0,Low
+CLM100189,POL57127,04-09-2023,Liability,Bronze,52162.06,Open,South,Agent_C,,55,0,Critical
+CLM100190,POL40972,03-08-2024,Health,Bronze,88341.97,Open,East,Agent_C,,32,0,Low
+CLM100191,POL18142,22-03-2023,Property,Gold,96021.34,Rejected,East,Agent_A,,62,0,Critical
+CLM100192,POL97528,29-03-2023,Travel,Silver,63934.19,Under Review,North,Agent_C,,24,0,Critical
+CLM100193,POL25495,12-05-2024,Liability,Platinum,37889.68,Closed,Central,Agent_E,34,49,0,Medium
+CLM100194,POL71000,12-03-2023,Motor,Silver,126872.94,Closed,West,Agent_D,145,50,0,Critical
+CLM100195,POL50213,29-06-2024,Health,Gold,30282.94,Closed,Central,Agent_D,125,30,0,Medium
+CLM100196,POL30934,09-05-2023,Travel,Silver,58011.64,Pending,South,Agent_B,,24,0,Low
+CLM100197,POL63138,12-05-2023,Life,Silver,72739.61,Rejected,North,Agent_E,,46,0,Medium
+CLM100198,POL99925,06-11-2024,Property,Gold,35962.25,Rejected,East,Agent_B,,55,0,Medium
+CLM100199,POL75866,01-05-2024,Health,Platinum,86002.44,Pending,West,Agent_E,,33,0,Low
+CLM100200,POL50760,16-07-2024,Health,Silver,86434.38,Closed,South,Agent_C,88,63,0,Medium
+CLM100201,POL25389,19-06-2023,Health,Bronze,148907.46,Open,West,Agent_B,,30,0,Critical
+CLM100202,POL93717,29-09-2023,Travel,Silver,44637,Open,Central,Agent_C,,36,0,Low
+CLM100203,POL48671,24-06-2024,Property,Silver,146702.7,Rejected,North,Agent_E,,61,1,High
+CLM100204,POL58174,13-09-2024,Liability,Bronze,98905.36,Closed,Central,Agent_A,175,46,0,High
+CLM100205,POL90560,09-03-2024,Liability,Platinum,41534.82,Open,East,Agent_A,,26,0,Critical
+CLM100206,POL38947,05-08-2023,Property,Bronze,85106.39,Open,North,Agent_A,,32,0,Critical
+CLM100207,POL38721,06-07-2024,Travel,Platinum,103027.02,Pending,Central,Agent_A,,55,0,Medium
+CLM100208,POL27507,07-12-2024,Motor,Gold,111827.99,Open,West,Agent_D,,45,0,Critical
+CLM100209,POL72676,25-07-2023,Liability,Gold,7832.12,Open,North,Agent_A,,36,0,High
+CLM100210,POL30078,16-11-2023,Liability,Silver,91157.77,Closed,North,Agent_E,13,59,0,Low
+CLM100211,POL69634,13-02-2024,Property,Silver,74760.73,Pending,East,Agent_A,,29,0,Medium
+CLM100212,POL89395,18-11-2024,Travel,Gold,135671.22,Pending,East,Agent_D,,26,0,Medium
+CLM100213,POL58971,27-10-2024,Travel,Bronze,43286.03,Open,West,Agent_C,,69,0,Low
+CLM100214,POL64505,18-01-2024,Health,Gold,119929.59,Pending,West,Agent_B,,47,0,Medium
+CLM100215,POL81989,24-03-2024,Travel,Platinum,91256.22,Open,North,Agent_C,,39,0,Medium
+CLM100216,POL71712,13-06-2024,Health,Silver,53171.98,Closed,South,Agent_C,12,27,0,Low
+CLM100217,POL80453,07-04-2024,Life,Bronze,95674.37,Pending,Central,Agent_B,,58,0,Medium
+CLM100218,POL97044,04-05-2023,Travel,Silver,93323.23,Closed,North,Agent_A,26,69,1,High
+CLM100219,POL38627,11-09-2023,Property,Gold,101825.79,Rejected,West,Agent_A,,34,0,Medium
+CLM100220,POL42435,19-08-2023,Health,Bronze,108278.79,Pending,North,Agent_E,,49,0,Low
+CLM100221,POL99173,07-03-2023,Life,Gold,99047.64,Closed,East,Agent_A,161,26,0,Low
+CLM100222,POL88094,13-12-2023,Motor,Platinum,125831.4,Open,Central,Agent_A,,34,0,Low
+CLM100028,POL20730,22-01-2023,Motor,Gold,94423.09,Closed,North,Agent_E,118,38,0,High
+CLM100224,POL78879,25-08-2024,Motor,Bronze,135558.85,Closed,East,Agent_B,5,71,0,Low
+CLM100225,POL68556,21-07-2024,Health,Gold,97127.92,Open,Central,Agent_E,,61,0,Medium
+CLM100226,POL79228,24-08-2023,Travel,Silver,46685.47,Under Review,Central,Agent_A,,66,0,Low
+CLM100227,POL57419,25-08-2024,Health,Silver,66403.07,Closed,South,Agent_A,32,53,0,Low
+CLM100228,POL20237,14-08-2023,Motor,Bronze,87146.28,Rejected,East,Agent_A,,50,0,High
+CLM100229,POL83946,08-01-2023,Travel,Silver,109987.79,Closed,Central,Agent_E,41,72,0,Medium
+CLM100230,POL24707,14-03-2023,Life,Platinum,13974.94,Pending,South,Agent_B,,24,1,Low
+CLM100231,POL18094,25-12-2024,Motor,Platinum,44619.01,Closed,South,Agent_D,113,61,0,Medium
+CLM100232,POL81781,08-10-2024,Property,Bronze,112248.39,Closed,North,Agent_E,117,55,0,Low
+CLM100233,POL76255,02-03-2023,Travel,Gold,,Closed,West,Agent_B,1,61,1,Medium
+CLM100234,POL36497,23-08-2023,Health,Silver,20257.89,Open,West,Agent_A,,48,0,Medium
+CLM100235,POL85065,11-03-2023,Health,Silver,81141.46,Pending,Central,Agent_B,,34,0,Low
+CLM100236,POL80341,02-02-2023,Property,Gold,145737.69,Closed,Central,Agent_C,110,66,0,Low
+CLM100237,POL29641,05-12-2023,Liability,Gold,79862.43,Open,Central,Agent_C,,54,0,Low
+CLM100238,POL31566,14-03-2023,Health,Gold,137066.3,Closed,North,Agent_D,52,27,0,High
+CLM100239,POL53007,10-06-2024,Property,Gold,124655.66,Open,South,Agent_A,,45,0,Critical
+CLM100240,POL78202,01-09-2023,Motor,Silver,38917.03,Under Review,West,Agent_D,,40,0,Low
+CLM100241,POL67912,13-10-2023,Motor,Platinum,123791.13,Under Review,East,Agent_C,,37,0,High
+CLM100242,POL25235,16-11-2024,Health,Bronze,72536.25,Under Review,West,Agent_D,,61,0,Low
+CLM100243,POL99167,12-05-2024,Travel,Bronze,121070.03,Closed,South,Agent_C,177,49,0,Low
+CLM100244,POL36922,08-08-2023,Liability,Gold,112110.62,Open,South,Agent_C,,54,0,High
+CLM100245,POL86434,06-07-2024,Health,Platinum,51137.93,Under Review,East,Agent_B,,69,0,High
+CLM100246,POL74071,16-05-2023,Motor,Silver,17717.87,Closed,North,Agent_A,34,62,0,Critical
+CLM100247,POL21919,07-08-2024,Travel,Silver,144452.55,Under Review,West,Agent_C,,34,1,Medium
+CLM100248,POL76895,13-08-2024,Property,Bronze,21543.17,Under Review,Central,Agent_A,,64,0,Low
+CLM100249,POL68390,29-04-2024,Motor,Gold,144991.78,Rejected,North,Agent_D,,66,0,High
+CLM100250,POL17292,06-09-2023,Property,Platinum,129091.02,Closed,Central,Agent_D,167,46,0,Low
+CLM100251,POL69432,29-04-2024,Liability,Bronze,108770.4,Closed,West,Agent_C,78,74,0,Medium
+CLM100252,POL27294,21-02-2024,Liability,Platinum,147001.37,Rejected,East,Agent_A,,63,0,Low
+CLM100044,POL77272,14-07-2023,Life,Gold,145106.83,Closed,North,Agent_C,41,57,0,Medium
+CLM100254,POL64450,07-04-2023,Travel,Gold,120785.85,Open,West,Agent_C,,48,0,Low
+CLM100255,POL69873,10-04-2023,Motor,Bronze,55183.37,Closed,Central,Agent_B,71,59,0,Low
+CLM100256,POL83912,05-11-2024,Property,Gold,118706.95,Under Review,West,Agent_D,,28,0,High
+CLM100257,POL17567,17-03-2024,Property,Platinum,2580.84,Pending,South,Agent_A,,26,0,Low
+CLM100258,POL83242,29-12-2023,Property,Platinum,80717.56,Closed,South,Agent_D,24,64,0,Medium
+CLM100259,POL70604,09-03-2024,Health,Bronze,68490.51,Open,West,Agent_B,,66,0,Low
+CLM100260,POL98181,25-02-2024,Health,Gold,101087.84,Closed,Central,Agent_E,168,72,0,Low
+CLM100261,POL50392,23-04-2024,Liability,Silver,101014.95,Under Review,South,Agent_D,,52,0,Low
+CLM100262,POL12853,25-02-2023,Life,Gold,87891.73,Open,West,Agent_B,,44,0,Low
+CLM100263,POL61897,20-11-2024,Liability,Bronze,123451.39,Closed,West,Agent_D,93,63,0,High
+CLM100264,POL43352,31-10-2024,Life,Bronze,141073.64,Rejected,Central,Agent_A,,31,0,Low
+CLM100265,POL10395,23-10-2024,Liability,Silver,16697.74,Pending,South,Agent_B,,53,0,Critical
+CLM100266,POL38560,11-04-2023,Property,Bronze,35456.37,Pending,Central,Agent_E,,64,0,Medium
+CLM100267,POL85800,04-03-2023,Health,Bronze,4241.19,Pending,Central,Agent_D,,74,1,Medium
+CLM100268,POL19572,17-02-2024,Liability,Silver,132693.11,Closed,Central,Agent_B,65,51,1,Medium
+CLM100027,POL15936,14-12-2023,Travel,Silver,84430.4,Closed,South,Agent_E,22,60,0,Medium
+CLM100270,POL65534,22-04-2023,Liability,Platinum,137330.76,Rejected,South,Agent_A,,52,0,High
+CLM100271,POL55158,12-09-2023,Travel,Bronze,,Rejected,North,Agent_D,,39,0,Low
+CLM100272,POL18357,16-07-2023,Property,Silver,9950.95,Rejected,East,Agent_C,,57,0,Low
+CLM100273,POL80931,14-07-2023,Health,Platinum,123666.38,Under Review,West,Agent_A,,23,0,High
+CLM100274,POL17897,03-07-2024,Liability,Bronze,136453.45,Closed,East,Agent_A,96,35,0,Critical
+CLM100275,POL19046,04-04-2024,Travel,Silver,45677.43,Closed,Central,Agent_A,171,34,0,High
+CLM100276,POL71875,24-05-2023,Health,Bronze,61540.23,Pending,North,Agent_A,,50,0,Medium
+CLM100277,POL14159,08-03-2024,Life,Platinum,21396.66,Closed,North,Agent_E,167,33,0,High
+CLM100278,POL47629,07-07-2023,Property,Gold,141966.1,Pending,West,Agent_C,,60,0,Medium
+CLM100279,POL63591,13-10-2023,Liability,Bronze,46002.51,Pending,West,Agent_D,,23,0,Medium
+CLM100280,POL33590,18-04-2024,Liability,Bronze,74147.38,Rejected,East,Agent_A,,53,0,Low
+CLM100281,POL27750,13-09-2023,Property,Bronze,15030.2,Closed,East,Agent_D,43,34,0,Medium
+CLM100282,POL94085,19-03-2023,Health,Bronze,133145.27,Closed,South,Agent_B,14,67,0,Low
+CLM100283,POL94656,29-03-2024,Health,Silver,20781.78,Open,East,Agent_A,,48,0,Low
+CLM100284,POL65097,17-07-2024,Liability,Gold,68319.74,Closed,East,Agent_A,102,70,0,High
+CLM100285,POL59081,11-04-2023,Motor,Bronze,100737.69,Open,Central,Agent_D,,62,0,Low
+CLM100286,POL60132,21-02-2023,Liability,Silver,111599.45,Closed,North,Agent_C,161,38,0,Low
+CLM100287,POL68790,29-10-2024,Travel,Gold,141923.13,Closed,East,Agent_B,79,61,0,Low
+CLM100288,POL59479,07-07-2024,Life,Platinum,63159.45,Closed,South,Agent_C,180,52,0,Critical
+CLM100289,POL59236,16-01-2023,Travel,Platinum,111469.22,Closed,East,Agent_D,60,55,0,Medium
+CLM100290,POL20518,06-04-2023,Motor,Platinum,23601.17,Open,Central,Agent_E,,45,0,Medium
+CLM100291,POL99486,31-08-2023,Health,Platinum,62525.24,Open,West,Agent_A,,66,0,High
+CLM100292,POL96742,20-06-2023,Travel,Platinum,15303.73,Rejected,Central,Agent_E,,56,1,High
+CLM100293,POL80687,21-02-2024,Property,Gold,73657.38,Closed,South,Agent_D,110,69,0,Low
+CLM100294,POL27431,12-05-2024,Travel,Bronze,61513.32,Open,West,Agent_D,,27,0,Medium
+CLM100295,POL95660,07-05-2024,Health,Platinum,142752.47,Closed,North,Agent_D,168,40,0,High
+CLM100296,POL55582,07-08-2023,Liability,Bronze,5391.08,Pending,South,Agent_D,,51,0,Medium
+CLM100297,POL25549,15-02-2024,Travel,Bronze,55894.23,Open,South,Agent_A,,28,0,Low
+CLM100298,POL33392,02-03-2023,Motor,Bronze,66785.77,Closed,East,Agent_E,24,31,0,High
+CLM100299,POL80419,18-06-2023,Life,Bronze,142608,Open,South,Agent_B,,62,0,Medium
+CLM100300,POL61518,24-01-2024,Health,Bronze,128389.8,Open,North,Agent_A,,53,0,Low
+CLM100301,POL79316,03-01-2023,Property,Gold,15353.52,Closed,North,Agent_D,25,55,0,Medium
+CLM100302,POL26691,04-02-2024,Liability,Bronze,103009.2,Closed,North,Agent_D,1,49,0,Low
+CLM100303,POL39188,29-09-2023,Motor,Gold,81897.65,Closed,South,Agent_A,55,36,0,Low
+CLM100022,POL10455,10-04-2024,Health,Gold,146687.46,Pending,Central,Agent_E,,51,0,High
+CLM100305,POL12979,20-10-2023,Property,Bronze,54121.74,Under Review,South,Agent_E,,58,0,Low
+CLM100306,POL49107,09-03-2024,Property,Gold,,Closed,East,Agent_C,123,50,0,Medium
+CLM100307,POL70686,14-12-2024,Health,Platinum,28876.38,Closed,North,Agent_C,20,43,0,Medium
+CLM100308,POL98276,23-07-2024,Liability,Platinum,18762.88,Pending,East,Agent_C,,25,0,Low
+CLM100309,POL81361,08-11-2024,Motor,Platinum,127280.96,Closed,North,Agent_D,34,41,1,Critical
+CLM100310,POL65591,13-05-2024,Liability,Bronze,68480.25,Closed,East,Agent_A,152,53,0,Low
+CLM100311,POL79721,08-06-2023,Liability,Platinum,99583.93,Open,West,Agent_A,,57,0,Low
+CLM100312,POL59712,14-07-2023,Liability,Silver,96434.82,Open,West,Agent_C,,71,0,Low
+CLM100313,POL40102,31-10-2023,Liability,Silver,89773.32,Under Review,North,Agent_E,,25,0,Low
+CLM100314,POL42441,11-08-2023,Property,Silver,3692.94,Rejected,East,Agent_C,,48,0,Low
+CLM100315,POL70375,01-03-2023,Life,Platinum,,Pending,South,Agent_A,,38,1,Medium
+CLM100316,POL55371,16-08-2024,Motor,Gold,36913.55,Closed,Central,Agent_D,58,33,0,Critical
+CLM100317,POL30332,09-07-2024,Property,Silver,19325.62,Open,South,Agent_C,,43,0,Low
+CLM100318,POL46129,04-03-2023,Health,Gold,84904.41,Open,South,Agent_B,,38,0,Medium
+CLM100319,POL34704,18-11-2023,Health,Gold,10757.22,Closed,Central,Agent_B,133,31,0,Medium
+CLM100320,POL24790,28-02-2023,Liability,Bronze,114891.03,Closed,Central,Agent_E,175,22,0,High
+CLM100321,POL14222,21-02-2023,Motor,Silver,31470.03,Pending,East,Agent_A,,43,0,Medium
+CLM100322,POL96533,21-08-2024,Property,Bronze,32784.73,Pending,Central,Agent_D,,47,0,Low
+CLM100323,POL64950,03-05-2024,Property,Bronze,130519.47,Closed,West,Agent_B,114,39,0,Low
+CLM100324,POL90599,29-05-2024,Motor,Bronze,49619.65,Under Review,Central,Agent_C,,71,0,Medium
+CLM100325,POL12050,27-06-2024,Liability,Platinum,22559.35,Pending,South,Agent_D,,35,0,High
+CLM100326,POL41544,11-06-2023,Motor,Bronze,,Closed,North,Agent_A,3,68,0,Low
+CLM100327,POL37011,28-02-2023,Motor,Gold,923.91,Closed,West,Agent_C,3,50,0,Low
+CLM100328,POL18819,04-06-2024,Life,Silver,128831.72,Closed,Central,Agent_D,179,33,0,High
+CLM100329,POL23224,24-03-2023,Life,Gold,22130.85,Open,Central,Agent_A,,57,0,High
+CLM100330,POL87849,10-07-2023,Liability,Silver,19933.82,Closed,North,Agent_D,88,56,0,Critical
+CLM100331,POL14400,12-03-2023,Life,Platinum,37972.8,Pending,East,Agent_B,,73,0,High
+CLM100332,POL68515,01-09-2024,Health,Silver,26587.32,Open,South,Agent_B,,33,0,Low
+CLM100333,POL88352,11-03-2023,Life,Silver,99328.12,Open,North,Agent_A,,28,0,Medium
+CLM100334,POL98083,22-11-2024,Life,Silver,4354.13,Open,East,Agent_B,,50,0,Medium
+CLM100335,POL16380,29-08-2023,Life,Silver,,Open,South,Agent_A,,32,0,Low
+CLM100336,POL42077,18-02-2024,Property,Gold,118602.71,Rejected,Central,Agent_E,,54,0,Medium
+CLM100337,POL15798,03-05-2023,Travel,Silver,36070.78,Pending,East,Agent_B,,27,0,Medium
+CLM100338,POL62725,06-08-2024,Life,Bronze,48903.83,Closed,North,Agent_D,31,68,0,Low
+CLM100339,POL67535,10-09-2023,Motor,Silver,,Open,West,Agent_D,,36,0,High
+CLM100340,POL40715,15-08-2024,Life,Bronze,8333.65,Closed,North,Agent_A,109,53,0,Medium
+CLM100341,POL80747,31-08-2024,Travel,Platinum,111386.85,Closed,North,Agent_E,178,72,0,Critical
+CLM100342,POL38477,10-02-2023,Liability,Bronze,79149.79,Open,West,Agent_C,,32,0,Low
+CLM100343,POL17398,26-09-2024,Liability,Gold,111976.96,Closed,East,Agent_D,34,44,0,Low
+CLM100344,POL28367,25-03-2023,Health,Bronze,,Closed,East,Agent_E,123,47,0,Medium
+CLM100345,POL76046,05-03-2024,Health,Gold,116813.55,Closed,North,Agent_D,19,55,0,Low
+CLM100346,POL47914,04-11-2024,Life,Bronze,77229.07,Closed,North,Agent_A,59,67,0,Medium
+CLM100347,POL40692,20-08-2024,Motor,Silver,16803.57,Open,East,Agent_A,,55,0,High
+CLM100348,POL85511,01-08-2024,Motor,Platinum,75823.88,Closed,West,Agent_C,99,50,0,Low
+CLM100349,POL51799,19-06-2024,Property,Gold,141839.64,Closed,South,Agent_A,23,25,0,Medium
+CLM100350,POL85690,20-11-2023,Motor,Gold,6983.07,Closed,West,Agent_C,27,38,0,Medium
+CLM100351,POL88370,25-09-2023,Property,Silver,117592.44,Rejected,Central,Agent_A,,56,0,Low
+CLM100352,POL98150,29-07-2023,Property,Silver,130113.65,Pending,North,Agent_D,,34,0,Critical
+CLM100353,POL52030,16-11-2024,Motor,Bronze,78456.96,Open,East,Agent_A,,62,0,High
+CLM100354,POL41051,18-11-2023,Motor,Gold,68977.36,Open,West,Agent_B,,60,0,Medium
+CLM100355,POL49552,02-09-2023,Property,Bronze,144621.91,Closed,Central,Agent_E,27,36,0,Medium
+CLM100010,POL28777,29-09-2023,Health,Silver,9593.4,Open,Central,Agent_D,,50,0,Medium
+CLM100357,POL96535,10-02-2024,Life,Gold,72107.8,Closed,North,Agent_E,81,50,1,High
+CLM100358,POL78321,15-05-2023,Health,Platinum,60541.78,Under Review,South,Agent_B,,32,1,Medium
+CLM100359,POL38972,18-11-2024,Liability,Platinum,103071.58,Closed,South,Agent_E,95,73,0,Medium
+CLM100360,POL64206,22-10-2024,Motor,Gold,73795.19,Closed,Central,Agent_B,77,53,0,High
+CLM100361,POL49387,04-11-2023,Travel,Gold,136500.27,Closed,West,Agent_A,36,23,0,Low
+CLM100362,POL46064,13-04-2024,Motor,Silver,11486.86,Closed,Central,Agent_A,98,68,0,High
+CLM100363,POL17989,20-11-2023,Property,Gold,12578.18,Closed,North,Agent_B,35,35,0,Low
+CLM100364,POL82970,16-03-2023,Travel,Gold,91440.46,Under Review,North,Agent_D,,41,0,Low
+CLM100365,POL87550,10-01-2023,Travel,Platinum,10319.49,Closed,South,Agent_A,165,43,0,Low
+CLM100366,POL32955,14-04-2024,Life,Silver,41614.89,Under Review,Central,Agent_D,,32,0,Critical
+CLM100367,POL92050,28-09-2024,Liability,Bronze,95144.97,Under Review,East,Agent_E,,48,0,High
+CLM100368,POL98965,30-07-2024,Motor,Gold,82479.29,Open,East,Agent_A,,24,0,Medium
+CLM100369,POL65994,13-04-2023,Life,Silver,49115.22,Open,West,Agent_B,,38,0,Medium
+CLM100370,POL82856,17-03-2023,Liability,Silver,149196.85,Open,West,Agent_B,,65,0,Medium
+CLM100371,POL74962,04-07-2024,Health,Platinum,79818.25,Open,South,Agent_A,,49,0,Critical
+CLM100372,POL16145,07-08-2023,Travel,Gold,68330.45,Open,North,Agent_B,,50,0,Medium
+CLM100373,POL55143,02-06-2024,Life,Gold,91011.31,Pending,East,Agent_A,,42,0,Low
+CLM100374,POL94320,29-09-2023,Health,Silver,15327.18,Open,East,Agent_C,,68,0,Low
+CLM100375,POL97994,16-05-2023,Motor,Gold,105416.02,Closed,East,Agent_A,174,37,0,High
+CLM100376,POL59958,24-12-2023,Motor,Platinum,127992.51,Rejected,East,Agent_D,,58,0,Medium
+CLM100377,POL78742,12-03-2023,Property,Platinum,,Open,South,Agent_E,,41,0,Low
+CLM100378,POL51777,08-09-2023,Health,Platinum,115459.93,Rejected,Central,Agent_B,,27,1,Low
+CLM100379,POL64568,14-01-2024,Health,Gold,108265.57,Closed,East,Agent_E,37,40,0,High
+CLM100380,POL63511,19-10-2023,Life,Gold,32645.95,Open,North,Agent_A,,26,0,Low
+CLM100381,POL29558,11-06-2023,Liability,Platinum,68007.46,Pending,East,Agent_A,,24,0,Medium
+CLM100382,POL49306,24-03-2024,Travel,Bronze,34659.79,Closed,West,Agent_A,18,22,0,Critical
+CLM100383,POL59343,10-07-2024,Liability,Silver,51170.28,Rejected,North,Agent_D,,59,0,Medium
+CLM100384,POL34101,21-12-2024,Liability,Bronze,68298.09,Pending,Central,Agent_E,,36,0,Low
+CLM100385,POL80507,06-11-2023,Travel,Gold,62690.45,Rejected,East,Agent_E,,55,0,Medium
+CLM100386,POL72065,18-09-2024,Property,Silver,14715.33,Closed,South,Agent_B,136,56,0,High
+CLM100387,POL41584,31-10-2024,Liability,Silver,64301.22,Open,South,Agent_A,,70,0,Medium
+CLM100388,POL39536,25-06-2024,Property,Gold,99933.63,Pending,East,Agent_B,,46,0,Critical
+CLM100389,POL49418,09-01-2023,Property,Bronze,56458,Rejected,West,Agent_D,,45,0,Low
+CLM100390,POL28920,14-11-2024,Health,Bronze,23319.52,Under Review,South,Agent_C,,33,0,Medium
+CLM100391,POL70689,21-07-2024,Motor,Bronze,138486.26,Closed,North,Agent_D,145,39,0,Medium
+CLM100392,POL17552,03-11-2023,Motor,Bronze,10536.43,Closed,West,Agent_C,3,36,0,High
+CLM100393,POL83713,10-11-2024,Life,Platinum,124849.9,Pending,Central,Agent_A,,65,0,Low
+CLM100394,POL64090,17-04-2023,Travel,Silver,14437.9,Closed,Central,Agent_E,157,37,0,High
+CLM100395,POL64592,18-05-2023,Travel,Bronze,14936.38,Under Review,South,Agent_E,,48,0,Medium
+CLM100396,POL83044,28-09-2023,Life,Gold,110950,Rejected,West,Agent_B,,29,0,Low
+CLM100397,POL79467,29-04-2023,Health,Platinum,121859.51,Closed,South,Agent_C,167,67,0,Low
+CLM100398,POL27575,20-04-2023,Motor,Silver,83677.42,Pending,Central,Agent_B,,46,0,High
+CLM100399,POL60910,20-07-2024,Property,Gold,88176.53,Pending,South,Agent_A,,38,1,Low
+CLM100400,POL41831,09-06-2023,Motor,Platinum,84457.17,Open,West,Agent_E,,50,0,Low
+CLM100401,POL43422,06-10-2023,Life,Silver,49782.07,Under Review,East,Agent_B,,74,0,Low
+CLM100402,POL36651,16-10-2023,Motor,Gold,,Closed,Central,Agent_C,43,29,0,High
+CLM100403,POL53288,11-09-2024,Property,Silver,53362.91,Rejected,East,Agent_A,,36,0,Medium
+CLM100404,POL94765,04-08-2023,Liability,Platinum,99968.41,Closed,West,Agent_A,113,48,0,High
+CLM100405,POL20363,18-12-2023,Liability,Bronze,112667.5,Rejected,Central,Agent_C,,67,0,Low
+CLM100406,POL68954,28-07-2023,Travel,Platinum,130279.78,Closed,South,Agent_B,90,71,0,Medium
+CLM100407,POL58637,04-12-2024,Life,Gold,108298.57,Open,South,Agent_D,,73,0,Medium
+CLM100408,POL22119,11-10-2024,Health,Bronze,145275.59,Under Review,South,Agent_B,,28,0,High
+CLM100409,POL80206,28-09-2023,Motor,Silver,90261.31,Open,Central,Agent_C,,24,0,High
+CLM100410,POL34966,01-06-2024,Motor,Silver,53071.1,Closed,Central,Agent_E,55,50,0,Low
+CLM100411,POL16755,15-05-2024,Health,Silver,86898.82,Under Review,South,Agent_B,,65,0,Medium
+CLM100412,POL45187,15-09-2023,Health,Platinum,32304.45,Under Review,South,Agent_D,,74,0,Low
+CLM100413,POL59436,22-02-2023,Liability,Silver,98682.08,Closed,East,Agent_B,161,45,0,Medium
+CLM100414,POL98299,05-04-2023,Property,Silver,34024.61,Closed,Central,Agent_E,39,24,0,Low
+CLM100415,POL89294,11-10-2024,Motor,Silver,16678.65,Closed,South,Agent_A,106,41,0,Low
+CLM100416,POL89026,09-03-2024,Life,Platinum,126883.33,Closed,West,Agent_B,158,67,0,Low
+CLM100417,POL15183,11-10-2023,Motor,Gold,55450.38,Closed,South,Agent_A,176,36,0,Medium
+CLM100418,POL19539,15-02-2023,Property,Bronze,114509.54,Pending,Central,Agent_E,,46,0,Low
+CLM100419,POL34662,04-01-2023,Life,Silver,86327.95,Pending,South,Agent_D,,51,0,Medium
+CLM100420,POL87015,08-12-2023,Life,Platinum,121179.59,Pending,East,Agent_B,,35,0,Medium
+CLM100421,POL98008,14-05-2023,Life,Silver,126850.7,Pending,North,Agent_A,,28,0,Low
+CLM100422,POL83249,14-10-2024,Liability,Bronze,146194.72,Open,Central,Agent_D,,38,0,High
+CLM100423,POL38444,26-09-2023,Property,Gold,122854.82,Closed,Central,Agent_A,114,65,1,Low
+CLM100424,POL72835,15-06-2023,Motor,Gold,92229.21,Open,North,Agent_A,,41,0,Medium
+CLM100425,POL37379,28-03-2024,Liability,Silver,96583.52,Closed,South,Agent_A,56,57,1,Medium
+CLM100426,POL53642,18-07-2024,Travel,Bronze,,Closed,East,Agent_B,23,30,0,Low
+CLM100427,POL49739,23-12-2024,Life,Silver,139398.1,Rejected,South,Agent_A,,59,0,Low
+CLM100428,POL12009,13-03-2024,Health,Gold,124504.39,Closed,North,Agent_E,26,69,0,Low
+CLM100429,POL37762,28-07-2024,Property,Platinum,40483.43,Open,East,Agent_C,,43,0,Critical
+CLM100430,POL34906,10-01-2023,Life,Platinum,27472.2,Open,West,Agent_D,,74,1,Medium
+CLM100431,POL25376,25-04-2023,Property,Platinum,105553.47,Pending,West,Agent_D,,74,0,Medium
+CLM100432,POL72773,19-03-2023,Health,Bronze,46693.21,Closed,East,Agent_B,36,23,0,Medium
+CLM100433,POL41797,08-12-2024,Life,Bronze,51303.79,Open,West,Agent_B,,45,0,Low
+CLM100434,POL89220,02-06-2023,Motor,Gold,1412.82,Open,East,Agent_B,,29,0,Medium
+CLM100007,POL36805,12-07-2024,Property,Bronze,130544.47,Pending,South,Agent_C,,32,0,High
+CLM100436,POL61987,06-02-2023,Life,Gold,85165,Open,South,Agent_E,,34,1,Low
+CLM100437,POL41369,14-01-2024,Life,Gold,60417.26,Rejected,North,Agent_D,,38,0,Low
+CLM100438,POL82362,19-08-2024,Property,Silver,21710.26,Pending,South,Agent_D,,29,0,Low
+CLM100439,POL52154,19-07-2024,Health,Platinum,95159.22,Open,South,Agent_B,,42,0,Medium
+CLM100440,POL47101,01-06-2023,Property,Platinum,5083.24,Open,North,Agent_B,,39,0,Critical
+CLM100441,POL59894,16-03-2024,Travel,Gold,112043.71,Under Review,Central,Agent_E,,51,0,Low
+CLM100442,POL71112,11-05-2023,Motor,Bronze,32662.37,Closed,Central,Agent_A,32,39,0,Medium
+CLM100443,POL79946,12-02-2023,Health,Gold,63264.96,Closed,East,Agent_E,151,67,0,Low
+CLM100444,POL95029,12-11-2023,Liability,Platinum,51463.95,Rejected,Central,Agent_B,,68,0,Critical
+CLM100445,POL57088,09-01-2024,Liability,Silver,55822.94,Under Review,Central,Agent_D,,52,0,Low
+CLM100446,POL50425,10-02-2023,Motor,Platinum,108378.6,Under Review,Central,Agent_E,,59,0,Medium
+CLM100447,POL44283,02-01-2024,Motor,Gold,116636.93,Pending,South,Agent_A,,53,0,Medium
+CLM100448,POL57139,04-08-2023,Liability,Gold,85355.24,Closed,Central,Agent_C,99,32,0,Medium
+CLM100449,POL77215,29-11-2024,Property,Platinum,13201.08,Open,South,Agent_C,,66,0,Medium
+CLM100450,POL75179,13-09-2023,Travel,Platinum,8365.02,Pending,South,Agent_D,,46,0,Low
+CLM100451,POL71080,13-11-2024,Life,Bronze,24032.78,Closed,North,Agent_A,90,54,0,Low
+CLM100452,POL22924,16-04-2023,Travel,Silver,92866.81,Closed,East,Agent_E,110,59,0,Low
+CLM100453,POL71537,29-12-2023,Health,Platinum,101258.32,Under Review,North,Agent_B,,62,0,Low
+CLM100454,POL51973,27-07-2024,Travel,Silver,41179.38,Open,West,Agent_B,,29,0,Medium
+CLM100455,POL36624,21-02-2024,Motor,Silver,99459.83,Closed,South,Agent_A,81,32,0,Low
+CLM100456,POL58589,27-09-2024,Life,Bronze,73106.42,Open,Central,Agent_E,,43,1,Low
+CLM100457,POL51015,08-06-2023,Travel,Gold,66585.61,Closed,Central,Agent_A,36,72,0,Medium
+CLM100458,POL64254,31-08-2023,Life,Silver,41338.44,Open,West,Agent_E,,45,0,Critical
+CLM100459,POL15992,16-06-2023,Travel,Silver,113364,Open,East,Agent_C,,62,0,Medium
+CLM100040,POL83731,01-07-2023,Liability,Silver,17515.72,Open,South,Agent_E,,38,0,Low
+CLM100461,POL39002,27-02-2024,Life,Silver,64772.09,Closed,West,Agent_E,64,33,0,Low
+CLM100462,POL29126,26-01-2023,Travel,Gold,42845.35,Pending,West,Agent_B,,67,0,Critical
+CLM100463,POL12125,03-07-2023,Health,Bronze,101933.7,Closed,West,Agent_D,71,53,0,Low
+CLM100464,POL44180,07-12-2023,Life,Silver,73251.6,Under Review,South,Agent_B,,36,0,Low
+CLM100465,POL82523,26-02-2024,Property,Platinum,100236.32,Closed,South,Agent_C,166,37,0,Medium
+CLM100466,POL86550,16-11-2024,Motor,Gold,7289.9,Closed,South,Agent_A,22,43,0,Medium
+CLM100467,POL85909,12-09-2023,Life,Bronze,,Rejected,South,Agent_B,,49,0,Medium
+CLM100468,POL64732,01-10-2023,Liability,Platinum,90099.08,Open,North,Agent_A,,41,0,Low
+CLM100469,POL48691,13-06-2023,Motor,Platinum,1649.22,Under Review,West,Agent_B,,54,0,Low
+CLM100470,POL29976,19-12-2024,Travel,Platinum,45562.19,Open,North,Agent_D,,31,0,Critical
+CLM100471,POL35715,21-04-2023,Travel,Silver,32079.48,Under Review,East,Agent_D,,61,0,Low
+CLM100472,POL53236,27-01-2024,Travel,Silver,21016.6,Open,West,Agent_B,,53,0,Medium
+CLM100473,POL40149,09-02-2023,Travel,Platinum,38700.17,Rejected,South,Agent_B,,71,0,Medium
+CLM100474,POL59786,26-04-2024,Liability,Bronze,49554.29,Closed,South,Agent_A,64,54,0,Medium
+CLM100475,POL84683,16-08-2023,Travel,Silver,1655.62,Under Review,South,Agent_A,,23,0,Low
+CLM100476,POL42208,24-07-2023,Health,Bronze,112178.61,Open,North,Agent_C,,54,0,Low
+CLM100477,POL75444,16-04-2024,Motor,Silver,26766.37,Closed,South,Agent_C,142,54,0,Medium
+CLM100478,POL82173,25-12-2023,Life,Silver,57341.01,Under Review,West,Agent_B,,62,0,High
+CLM100479,POL95800,09-11-2023,Health,Silver,105698.85,Closed,Central,Agent_D,154,34,0,Critical
+CLM100480,POL99764,22-08-2023,Health,Bronze,75289.22,Closed,West,Agent_C,154,51,0,Low
+CLM100481,POL54245,17-08-2023,Health,Silver,125086.45,Pending,East,Agent_C,,54,1,Low
+CLM100482,POL43728,25-01-2023,Health,Bronze,121026.93,Closed,West,Agent_E,156,34,0,Critical
+CLM100483,POL74044,06-11-2024,Health,Silver,11275.29,Closed,South,Agent_D,73,73,0,Medium
+CLM100484,POL94108,17-07-2023,Motor,Gold,129333.77,Closed,West,Agent_A,177,47,0,High
+CLM100485,POL74303,13-02-2024,Life,Silver,,Under Review,West,Agent_A,,43,0,Low
+CLM100486,POL70401,03-12-2023,Motor,Platinum,,Open,North,Agent_A,,60,0,Medium
+CLM100487,POL32050,13-10-2023,Liability,Bronze,138213.78,Closed,Central,Agent_E,7,23,0,Medium
+CLM100488,POL56160,13-03-2023,Life,Gold,129385.45,Under Review,West,Agent_B,,59,0,Medium
+CLM100489,POL32185,13-10-2023,Health,Bronze,86575.99,Rejected,East,Agent_B,,60,0,Medium
+CLM100490,POL28344,26-12-2023,Liability,Silver,86223.25,Closed,West,Agent_A,169,47,0,Low
+CLM100491,POL81636,18-10-2024,Health,Platinum,,Closed,Central,Agent_D,78,67,0,Medium
+CLM100492,POL74004,05-06-2024,Travel,Platinum,62945.25,Closed,Central,Agent_E,53,71,0,Low
+CLM100493,POL34123,14-02-2024,Property,Platinum,17718.42,Open,Central,Agent_A,,36,0,Medium
+CLM100494,POL81058,26-11-2024,Property,Silver,3618.06,Closed,Central,Agent_A,133,55,1,Critical
+CLM100495,POL94123,03-07-2024,Liability,Silver,49052.84,Closed,Central,Agent_B,156,63,0,Low
+CLM100496,POL17698,06-12-2023,Motor,Platinum,120297.66,Closed,North,Agent_D,131,65,0,High
+CLM100497,POL78674,29-01-2023,Motor,Silver,92909.73,Open,Central,Agent_E,,70,0,Low
+CLM100498,POL14433,29-04-2023,Life,Silver,124887.87,Under Review,North,Agent_E,,61,0,Medium
+CLM100499,POL19742,25-09-2023,Travel,Gold,138005.58,Under Review,West,Agent_C,,32,0,Critical
+CLM100500,POL97584,02-07-2023,Life,Silver,13675.42,Pending,West,Agent_D,,24,0,Low
+CLM100501,POL16358,17-08-2024,Travel,Gold,,Closed,North,Agent_B,49,27,0,Low
+CLM100502,POL10836,29-09-2023,Property,Platinum,36875.81,Closed,South,Agent_C,101,30,0,Medium
+CLM100503,POL64053,09-02-2023,Property,Bronze,88536.26,Rejected,Central,Agent_B,,27,0,Low
+CLM100504,POL28021,22-04-2023,Travel,Silver,78832.4,Pending,Central,Agent_A,,30,0,Medium
+CLM100505,POL92667,02-09-2024,Life,Platinum,59667.12,Open,West,Agent_C,,60,0,High
+CLM100506,POL40334,20-03-2024,Motor,Platinum,46886.05,Under Review,North,Agent_B,,52,0,Medium
+CLM100507,POL18908,20-12-2023,Liability,Silver,51257.24,Rejected,Central,Agent_A,,53,0,Low
+CLM100508,POL29795,18-11-2023,Travel,Bronze,50293.76,Under Review,West,Agent_B,,62,0,Medium
+CLM100509,POL11198,22-03-2024,Travel,Bronze,25635.84,Pending,Central,Agent_D,,71,0,Medium
+CLM100510,POL38668,12-09-2024,Travel,Silver,76817.25,Closed,North,Agent_B,76,33,0,Low
+CLM100511,POL76287,07-06-2024,Life,Platinum,17546.98,Closed,South,Agent_D,166,29,0,Medium
+CLM100512,POL69770,29-04-2023,Motor,Silver,76737.83,Under Review,East,Agent_B,,29,1,Medium
+CLM100513,POL58916,30-01-2024,Life,Bronze,135935.45,Rejected,West,Agent_A,,71,0,Medium
+CLM100514,POL17923,13-08-2024,Health,Silver,52731.6,Open,West,Agent_D,,49,0,Low
+CLM100515,POL90980,14-07-2023,Health,Platinum,109243.18,Open,East,Agent_E,,41,0,Medium
+CLM100516,POL93588,18-09-2023,Travel,Bronze,122932.82,Closed,East,Agent_D,14,68,0,Low
+CLM100517,POL97392,15-02-2023,Travel,Bronze,122348.03,Rejected,West,Agent_A,,28,0,Low
+CLM100518,POL90808,26-12-2024,Travel,Bronze,35822.19,Under Review,South,Agent_D,,32,0,High
+CLM100519,POL73334,22-03-2024,Motor,Platinum,,Open,West,Agent_B,,41,0,Medium
+CLM100520,POL96413,02-01-2023,Motor,Silver,29992.13,Closed,East,Agent_B,62,37,0,Low
+CLM100521,POL73944,16-06-2024,Travel,Bronze,,Closed,Central,Agent_E,127,25,0,Low
+CLM100522,POL12061,05-07-2024,Motor,Platinum,114152.19,Under Review,North,Agent_D,,27,0,Low
+CLM100523,POL10866,04-12-2024,Property,Platinum,98498.6,Rejected,Central,Agent_B,,43,0,Low
+CLM100524,POL79758,17-11-2024,Travel,Gold,26983.35,Rejected,South,Agent_D,,47,0,Low
+CLM100525,POL82305,21-07-2023,Property,Bronze,116040.79,Closed,West,Agent_C,99,24,1,Low
+CLM100526,POL63914,08-01-2024,Life,Platinum,74370.5,Closed,West,Agent_B,29,62,0,Medium
+CLM100527,POL11553,17-03-2024,Property,Silver,,Closed,North,Agent_D,62,63,1,Medium
+CLM100528,POL12192,13-03-2023,Life,Platinum,114101.63,Open,Central,Agent_B,,35,0,Medium
+CLM100529,POL79391,11-11-2024,Liability,Platinum,67611.34,Rejected,North,Agent_C,,32,0,Medium
+CLM100530,POL46010,05-12-2023,Life,Gold,138661.06,Rejected,South,Agent_C,,39,0,Low
+CLM100531,POL80220,30-09-2024,Travel,Bronze,84891.52,Under Review,Central,Agent_B,,33,0,Critical
+CLM100532,POL47576,18-11-2023,Travel,Platinum,95477.1,Under Review,Central,Agent_C,,44,0,High
+CLM100533,POL12246,10-11-2024,Life,Silver,93866.01,Closed,South,Agent_B,128,33,0,High
+CLM100534,POL75826,08-05-2023,Motor,Gold,129704.91,Pending,West,Agent_A,,34,0,High
+CLM100535,POL98346,04-11-2023,Health,Platinum,94269,Under Review,West,Agent_E,,46,0,Critical
+CLM100536,POL66436,03-06-2024,Property,Silver,,Rejected,East,Agent_A,,66,0,Medium
+CLM100537,POL33496,13-11-2023,Life,Bronze,10708.8,Open,West,Agent_C,,72,0,Low
+CLM100538,POL24026,13-11-2024,Health,Gold,66610.11,Closed,North,Agent_B,164,40,0,Medium
+CLM100539,POL22624,23-02-2024,Travel,Platinum,45771.66,Open,South,Agent_A,,67,0,Medium
+CLM100540,POL78732,01-12-2023,Travel,Gold,41563.71,Under Review,West,Agent_D,,57,0,Medium
+CLM100541,POL29516,17-02-2024,Liability,Silver,8897.73,Closed,Central,Agent_D,153,66,0,Medium
+CLM100542,POL41584,14-12-2024,Liability,Bronze,76346.86,Open,South,Agent_D,,29,0,Low
+CLM100543,POL35156,30-10-2023,Life,Bronze,46905.97,Pending,West,Agent_B,,50,0,Low
+CLM100544,POL91235,21-07-2024,Motor,Bronze,68061.12,Closed,North,Agent_C,19,74,0,High
+CLM100545,POL79003,11-05-2023,Life,Bronze,,Closed,East,Agent_B,136,53,0,Medium
+CLM100546,POL43084,16-07-2023,Property,Platinum,124838.65,Open,East,Agent_C,,72,0,Medium
+CLM100547,POL56457,06-03-2024,Liability,Silver,11971.28,Pending,South,Agent_E,,65,0,Low
+CLM100548,POL45038,11-11-2024,Health,Gold,129705.38,Closed,North,Agent_B,4,39,0,Low
+CLM100549,POL62022,24-01-2024,Motor,Platinum,128366.36,Pending,North,Agent_E,,27,0,High
+CLM100550,POL20357,24-11-2024,Liability,Gold,92443.75,Closed,North,Agent_B,93,39,0,Medium
+CLM100551,POL58896,28-06-2023,Life,Bronze,76306.64,Rejected,West,Agent_E,,40,0,High
+CLM100552,POL63218,22-09-2024,Property,Silver,69675.39,Closed,East,Agent_E,82,43,0,Medium
+CLM100553,POL70161,05-08-2024,Property,Platinum,83370.3,Closed,North,Agent_B,34,58,0,Medium
+CLM100554,POL84055,05-11-2023,Motor,Gold,118876.76,Rejected,Central,Agent_A,,53,0,Low
+CLM100555,POL41877,20-02-2024,Property,Gold,134433.58,Closed,West,Agent_D,100,62,0,Medium
+CLM100556,POL39603,15-07-2024,Property,Platinum,67735.19,Open,Central,Agent_E,,24,0,Medium
+CLM100557,POL49318,01-01-2023,Property,Gold,121567.48,Open,Central,Agent_D,,49,0,Medium
+CLM100558,POL99658,08-11-2023,Property,Gold,97949.7,Pending,South,Agent_B,,31,0,Medium
+CLM100005,POL20566,21-10-2023,Life,Platinum,48568.25,Closed,West,Agent_E,146,72,0,Critical
+CLM100560,POL95686,04-08-2023,Liability,Silver,71606.54,Pending,Central,Agent_D,,56,0,Low
+CLM100561,POL95182,16-03-2024,Liability,Platinum,23053.73,Open,West,Agent_D,,50,0,High
+CLM100562,POL14152,16-08-2024,Motor,Platinum,9750.12,Open,North,Agent_C,,36,0,Low
+CLM100563,POL22255,13-09-2024,Health,Silver,15973.53,Open,South,Agent_A,,54,0,Medium
+CLM100564,POL63120,01-11-2024,Health,Gold,134919.46,Closed,East,Agent_D,108,28,0,Low
+CLM100565,POL59710,26-11-2023,Property,Platinum,51843.95,Closed,Central,Agent_B,94,33,0,Low
+CLM100566,POL59436,21-04-2024,Liability,Gold,107290.17,Closed,South,Agent_B,140,70,0,Medium
+CLM100567,POL82443,28-03-2024,Life,Gold,75930.08,Closed,South,Agent_C,175,51,0,Low
+CLM100568,POL72390,28-03-2024,Property,Gold,26297.56,Under Review,South,Agent_D,,42,1,Medium
+CLM100569,POL17355,22-11-2024,Property,Platinum,37537.69,Closed,South,Agent_E,45,52,0,High
+CLM100570,POL93459,07-08-2023,Liability,Silver,65944.86,Closed,North,Agent_B,121,45,0,Low
+CLM100571,POL11238,07-06-2024,Life,Bronze,66193.56,Pending,West,Agent_E,,41,0,High
+CLM100572,POL32463,29-04-2024,Travel,Silver,78650.83,Closed,East,Agent_B,19,58,0,Medium
+CLM100573,POL20837,23-06-2023,Liability,Platinum,24232.56,Closed,East,Agent_E,5,25,0,Medium
+CLM100574,POL75517,05-11-2024,Motor,Silver,56241.37,Rejected,West,Agent_A,,49,0,Low
+CLM100575,POL66873,28-03-2023,Health,Bronze,42792.59,Under Review,East,Agent_D,,65,0,Low
+CLM100576,POL94529,18-10-2023,Life,Silver,,Open,South,Agent_A,,41,0,Low
+CLM100577,POL53420,11-06-2024,Health,Platinum,51085.89,Under Review,North,Agent_A,,45,0,Low
+CLM100578,POL84167,10-11-2024,Life,Gold,89883.94,Closed,South,Agent_D,151,71,0,Low
+CLM100579,POL22499,10-10-2024,Liability,Bronze,118489.43,Closed,South,Agent_E,18,70,0,Medium
+CLM100580,POL79226,26-09-2024,Life,Silver,97272.15,Closed,North,Agent_A,4,72,0,High
+CLM100581,POL15577,10-12-2023,Travel,Platinum,10353.82,Under Review,Central,Agent_D,,53,0,High
+CLM100582,POL40115,06-04-2023,Property,Bronze,14628.64,Closed,East,Agent_E,68,62,0,Medium
+CLM100583,POL37710,29-08-2023,Motor,Bronze,101917.71,Closed,North,Agent_D,56,57,0,Low
+CLM100584,POL84289,19-11-2024,Travel,Silver,42979.97,Closed,West,Agent_D,11,74,0,Low
+CLM100585,POL72324,14-11-2023,Health,Platinum,108698.18,Open,West,Agent_A,,55,0,Low
+CLM100586,POL45532,19-08-2023,Motor,Platinum,98656.33,Open,West,Agent_D,,57,0,Low
+CLM100587,POL16102,23-07-2023,Property,Bronze,135998.23,Open,Central,Agent_D,,23,0,Medium
+CLM100588,POL19744,31-05-2023,Liability,Bronze,131055.31,Open,North,Agent_B,,36,1,Medium
+CLM100589,POL99709,26-01-2023,Travel,Gold,50337.62,Open,Central,Agent_A,,55,0,Low
+CLM100590,POL46749,17-02-2023,Life,Silver,87619.56,Open,West,Agent_E,,57,0,Low
+CLM100591,POL81176,08-09-2023,Health,Gold,,Closed,South,Agent_A,16,27,0,High
+CLM100592,POL83860,01-05-2024,Travel,Bronze,,Open,South,Agent_D,,60,0,High
+CLM100593,POL96259,17-09-2024,Travel,Bronze,145170.63,Closed,Central,Agent_B,102,63,0,Low
+CLM100594,POL14312,16-03-2023,Motor,Platinum,104922.75,Rejected,West,Agent_B,,72,0,High
+CLM100595,POL33508,11-04-2024,Health,Platinum,59097.72,Closed,West,Agent_C,130,72,0,Critical
+CLM100596,POL51220,29-02-2024,Health,Gold,89458.66,Pending,West,Agent_C,,33,0,Low
+CLM100597,POL12052,06-10-2024,Health,Bronze,,Open,West,Agent_B,,24,0,Low
+CLM100598,POL37152,12-08-2024,Motor,Silver,46782.49,Open,North,Agent_A,,66,0,Medium
+CLM100599,POL86943,19-07-2023,Health,Platinum,56813.56,Open,Central,Agent_A,,39,0,Critical
+CLM100600,POL28899,14-12-2024,Motor,Platinum,118853.46,Open,Central,Agent_D,,61,0,High
+CLM100601,POL62205,29-01-2024,Life,Bronze,122071.13,Closed,North,Agent_C,74,42,0,Low
+CLM100602,POL20084,21-05-2024,Motor,Silver,100682.4,Open,South,Agent_B,,36,0,Low
+CLM100603,POL49226,14-02-2024,Property,Gold,124429.37,Open,Central,Agent_D,,54,1,Medium
+CLM100604,POL31292,07-09-2023,Liability,Silver,110946.81,Open,East,Agent_E,,56,0,Medium
+CLM100605,POL83919,01-06-2023,Health,Bronze,102969.46,Closed,Central,Agent_E,161,47,0,Low
+CLM100606,POL41519,02-11-2024,Property,Silver,79195.8,Open,Central,Agent_A,,29,0,High
+CLM100607,POL84277,05-12-2024,Property,Silver,,Closed,South,Agent_D,129,57,0,Medium
+CLM100608,POL61007,06-01-2023,Life,Bronze,63799.25,Closed,North,Agent_D,107,69,0,High
+CLM100609,POL98740,20-04-2023,Travel,Gold,54593.3,Pending,South,Agent_B,,51,0,High
+CLM100610,POL80852,11-03-2024,Life,Silver,54708.35,Open,South,Agent_D,,44,0,Medium
+CLM100611,POL53480,13-08-2023,Liability,Bronze,,Pending,North,Agent_B,,63,0,Medium
+CLM100612,POL60311,30-06-2023,Motor,Silver,32521.8,Closed,East,Agent_C,109,65,0,Medium
+CLM100613,POL28343,13-12-2024,Liability,Bronze,142176.41,Open,North,Agent_D,,35,0,Low
+CLM100614,POL20279,14-06-2024,Motor,Gold,73197.5,Rejected,South,Agent_A,,35,0,Medium
+CLM100615,POL75639,20-04-2024,Health,Platinum,34368.19,Under Review,North,Agent_A,,23,0,Low
+CLM100616,POL55332,21-02-2023,Property,Gold,21066.02,Open,Central,Agent_D,,58,1,Medium
+CLM100617,POL17038,24-07-2024,Life,Platinum,12036.18,Closed,Central,Agent_C,180,26,0,Low
+CLM100618,POL22803,13-09-2023,Travel,Platinum,126742.04,Rejected,East,Agent_E,,59,0,Low
+CLM100619,POL67290,05-05-2023,Life,Silver,15620.54,Pending,East,Agent_A,,66,0,Low
+CLM100620,POL40427,12-04-2024,Health,Bronze,,Open,North,Agent_C,,62,0,Low
+CLM100621,POL19963,17-05-2023,Life,Bronze,125350.41,Open,North,Agent_D,,68,0,Medium
+CLM100622,POL54642,20-04-2024,Travel,Bronze,132610.48,Closed,North,Agent_C,103,35,0,Medium
+CLM100623,POL89320,14-11-2024,Travel,Gold,6143.25,Closed,West,Agent_E,22,60,0,Medium
+CLM100624,POL90460,27-06-2024,Property,Gold,50846.27,Closed,South,Agent_E,164,46,0,Low
+CLM100625,POL88067,26-07-2024,Property,Gold,115062.99,Closed,South,Agent_E,138,41,0,Low
+CLM100626,POL61996,01-09-2024,Health,Gold,20091.83,Closed,East,Agent_B,138,23,0,Low
+CLM100627,POL52778,21-11-2023,Property,Silver,,Pending,Central,Agent_A,,60,0,Low
+CLM100628,POL13883,29-03-2024,Liability,Silver,24755.96,Open,Central,Agent_E,,27,0,High
+CLM100629,POL93115,19-09-2024,Liability,Platinum,124786.09,Closed,Central,Agent_C,158,38,0,Low
+CLM100630,POL45825,31-05-2024,Motor,Platinum,115779.12,Pending,Central,Agent_A,,46,0,Low
+CLM100631,POL69054,12-03-2024,Property,Bronze,,Rejected,South,Agent_E,,49,0,Low
+CLM100632,POL74304,15-07-2024,Motor,Gold,25248.11,Closed,West,Agent_C,40,23,0,Low
+CLM100633,POL39902,01-04-2024,Life,Silver,65932.17,Closed,Central,Agent_A,72,56,0,Medium
+CLM100634,POL56636,12-06-2023,Motor,Platinum,,Open,East,Agent_A,,58,0,Medium
+CLM100635,POL82487,01-05-2024,Health,Bronze,101616.26,Closed,North,Agent_D,22,26,0,Low
+CLM100636,POL59207,05-04-2024,Travel,Bronze,36010.77,Closed,North,Agent_C,80,22,0,Low
+CLM100637,POL66603,23-09-2023,Health,Gold,66907.71,Open,East,Agent_D,,61,0,Low
+CLM100638,POL34345,11-09-2023,Health,Gold,43096.73,Closed,East,Agent_E,21,33,0,Low
+CLM100639,POL99088,14-10-2024,Liability,Bronze,112406.21,Closed,East,Agent_A,131,57,0,Low
+CLM100640,POL86791,11-10-2023,Health,Gold,67614.73,Open,West,Agent_C,,66,0,Critical
+CLM100641,POL96595,17-06-2024,Liability,Gold,80334.67,Closed,North,Agent_C,53,44,0,Medium
+CLM100642,POL59816,11-05-2024,Health,Platinum,46765.45,Open,West,Agent_B,,68,0,Medium
+CLM100643,POL21232,03-10-2024,Property,Platinum,121389.27,Closed,Central,Agent_E,40,52,0,Medium
+CLM100644,POL91083,02-09-2023,Liability,Platinum,,Open,North,Agent_A,,32,0,Medium
+CLM100645,POL48715,09-10-2023,Life,Silver,125349.45,Rejected,East,Agent_E,,31,0,Medium
+CLM100646,POL42302,26-03-2024,Travel,Gold,55492.22,Closed,West,Agent_B,138,24,1,Medium
+CLM100647,POL19634,21-03-2023,Motor,Platinum,142095.96,Pending,South,Agent_B,,35,0,Medium
+CLM100648,POL20752,20-10-2023,Liability,Platinum,147673.75,Pending,North,Agent_C,,37,0,Low
+CLM100649,POL45123,29-08-2023,Motor,Bronze,69521.16,Closed,East,Agent_B,84,31,0,Medium
+CLM100650,POL30214,06-10-2023,Life,Platinum,42624.87,Open,East,Agent_E,,50,0,Medium
+CLM100651,POL59807,10-12-2023,Health,Bronze,57589.93,Closed,Central,Agent_A,101,31,0,High
+CLM100652,POL93086,24-11-2023,Liability,Gold,79355.24,Closed,West,Agent_D,151,33,0,Medium
+CLM100653,POL30221,07-07-2024,Health,Bronze,144957.09,Pending,Central,Agent_E,,51,0,Medium
+CLM100654,POL61068,24-03-2023,Travel,Platinum,122625.24,Closed,South,Agent_B,163,62,0,Low
+CLM100655,POL51507,22-05-2023,Motor,Silver,120288.25,Open,South,Agent_B,,22,0,Medium
+CLM100656,POL57277,04-06-2023,Health,Silver,21190.58,Closed,Central,Agent_C,167,26,0,Low
+CLM100657,POL23965,25-08-2023,Property,Gold,37875.48,Closed,North,Agent_C,175,41,0,Low
+CLM100658,POL21995,28-01-2024,Travel,Platinum,96356.27,Closed,North,Agent_C,165,29,0,Low
+CLM100659,POL10680,11-12-2024,Property,Gold,131180.48,Closed,Central,Agent_E,17,64,0,Medium
+CLM100660,POL50405,06-06-2023,Liability,Bronze,83403.84,Closed,Central,Agent_D,80,33,0,Low
+CLM100661,POL68292,24-12-2024,Liability,Gold,15837.16,Under Review,North,Agent_C,,22,0,Low
+CLM100662,POL57175,08-08-2023,Liability,Silver,126960.9,Closed,West,Agent_A,179,41,0,High
+CLM100663,POL45358,07-03-2023,Property,Gold,127749.32,Open,Central,Agent_A,,49,0,Low
+CLM100664,POL23399,29-02-2024,Life,Bronze,43116.92,Open,East,Agent_C,,64,0,Medium
+CLM100665,POL27367,22-02-2024,Life,Platinum,114585.97,Open,West,Agent_C,,58,0,Medium
+CLM100666,POL21442,05-12-2023,Property,Gold,41282.3,Open,Central,Agent_D,,68,0,Low
+CLM100667,POL34561,09-07-2024,Life,Bronze,135843.28,Open,East,Agent_D,,58,0,High
+CLM100668,POL66489,22-04-2024,Property,Silver,22528.62,Open,East,Agent_E,,33,0,Low
+CLM100047,POL68830,01-03-2024,Health,Platinum,65902.15,Closed,Central,Agent_E,112,58,0,Medium
+CLM100670,POL83005,05-03-2023,Life,Gold,141988.78,Open,Central,Agent_A,,70,0,Medium
+CLM100671,POL82710,31-07-2023,Property,Gold,,Rejected,Central,Agent_D,,70,0,Medium
+CLM100672,POL77166,06-03-2024,Liability,Silver,67943.63,Open,East,Agent_E,,65,0,Medium
+CLM100673,POL63483,03-02-2024,Travel,Gold,52762.97,Closed,South,Agent_E,62,49,0,Low
+CLM100674,POL23538,21-08-2024,Travel,Silver,4487.19,Closed,Central,Agent_C,15,68,0,Low
+CLM100675,POL13442,13-12-2024,Life,Silver,8461.9,Under Review,Central,Agent_D,,36,0,Medium
+CLM100676,POL21746,21-01-2023,Travel,Platinum,75550.06,Open,West,Agent_E,,27,0,Medium
+CLM100677,POL56388,12-08-2024,Motor,Silver,35748.82,Closed,Central,Agent_C,63,65,1,High
+CLM100678,POL82642,25-01-2024,Motor,Silver,149181.54,Under Review,West,Agent_A,,41,0,High
+CLM100679,POL22198,03-05-2024,Travel,Silver,56549.44,Rejected,West,Agent_B,,71,0,High
+CLM100680,POL88240,07-01-2023,Liability,Gold,4714.04,Rejected,South,Agent_D,,35,0,Medium
+CLM100681,POL88386,27-12-2023,Property,Silver,139658.47,Closed,Central,Agent_A,23,23,0,Low
+CLM100682,POL52523,02-11-2023,Travel,Silver,125956.85,Open,South,Agent_A,,30,0,High
+CLM100683,POL60493,04-02-2024,Liability,Silver,97669.12,Pending,East,Agent_D,,58,0,Medium
+CLM100684,POL11617,05-03-2024,Travel,Silver,118811.41,Under Review,South,Agent_B,,41,0,Low
+CLM100685,POL48253,05-07-2024,Travel,Gold,21071.14,Closed,North,Agent_C,112,47,0,High
+CLM100686,POL64238,13-07-2024,Property,Silver,43388.47,Closed,North,Agent_A,30,50,0,High
+CLM100687,POL60829,09-09-2024,Property,Bronze,124549.36,Closed,North,Agent_A,117,22,0,Medium
+CLM100688,POL21101,14-08-2023,Liability,Bronze,104562.76,Pending,West,Agent_B,,56,0,Low
+CLM100689,POL83339,14-05-2024,Motor,Bronze,,Open,North,Agent_C,,27,1,Low
+CLM100690,POL41816,13-08-2023,Life,Platinum,105977.66,Closed,South,Agent_A,157,58,0,High
+CLM100691,POL84967,07-10-2023,Motor,Bronze,67565.92,Closed,Central,Agent_B,156,74,0,High
+CLM100692,POL78302,22-03-2024,Property,Bronze,1285.05,Closed,West,Agent_D,15,26,0,Low
+CLM100693,POL32227,12-05-2024,Property,Platinum,12344.25,Open,West,Agent_B,,54,0,Low
+CLM100694,POL99825,30-01-2023,Liability,Gold,38760.63,Open,North,Agent_B,,70,0,High
+CLM100695,POL59903,03-02-2024,Property,Gold,125326.98,Closed,East,Agent_E,80,72,0,Low
+CLM100696,POL32216,11-12-2023,Property,Platinum,82546.23,Closed,East,Agent_A,171,35,0,Medium
+CLM100697,POL28198,15-11-2024,Property,Gold,109221.6,Closed,Central,Agent_C,169,33,0,Critical
+CLM100698,POL45247,26-11-2024,Liability,Platinum,79401.84,Open,South,Agent_D,,63,0,Low
+CLM100699,POL49469,19-02-2024,Liability,Silver,17122.44,Closed,North,Agent_E,45,41,0,Medium
+CLM100700,POL45180,19-06-2023,Liability,Gold,43571.19,Closed,South,Agent_B,31,74,0,Low
+CLM100701,POL74634,23-04-2024,Property,Platinum,45522.1,Open,East,Agent_D,,71,0,Low
+CLM100702,POL29127,11-05-2023,Health,Silver,7638.54,Closed,East,Agent_C,4,45,0,High
+CLM100703,POL18292,29-09-2024,Health,Silver,63263.92,Open,North,Agent_D,,64,0,Medium
+CLM100704,POL31916,30-06-2024,Travel,Bronze,,Open,East,Agent_D,,55,0,Critical
+CLM100705,POL66973,28-01-2023,Health,Platinum,68838.49,Under Review,East,Agent_A,,46,0,Medium
+CLM100706,POL46170,08-02-2024,Motor,Platinum,17073.26,Closed,Central,Agent_C,36,71,0,Low
+CLM100707,POL65194,29-08-2024,Travel,Bronze,135819.46,Rejected,Central,Agent_B,,50,1,Low
+CLM100708,POL49289,31-07-2024,Life,Gold,89712.49,Closed,East,Agent_A,180,60,0,Low
+CLM100709,POL73469,09-11-2024,Liability,Platinum,2957.09,Pending,North,Agent_A,,52,0,Low
+CLM100710,POL20082,28-01-2023,Property,Silver,77548.67,Pending,North,Agent_B,,68,0,Low
+CLM100711,POL57333,27-03-2023,Liability,Platinum,36669.75,Closed,East,Agent_E,3,64,0,Low
+CLM100712,POL42990,20-10-2024,Health,Bronze,21964.74,Closed,East,Agent_C,42,71,0,Medium
+CLM100713,POL42321,14-03-2024,Liability,Platinum,64671.21,Closed,West,Agent_D,128,44,0,Medium
+CLM100714,POL91924,19-05-2023,Motor,Gold,92414.03,Closed,Central,Agent_E,89,65,0,Medium
+CLM100715,POL74985,17-04-2024,Liability,Bronze,36464.35,Under Review,Central,Agent_C,,59,0,Medium
+CLM100716,POL87831,06-07-2023,Life,Bronze,62776.86,Rejected,North,Agent_C,,41,0,Low
+CLM100717,POL90828,21-02-2023,Property,Silver,99823.51,Under Review,South,Agent_D,,44,1,Low
+CLM100718,POL35630,24-09-2023,Property,Platinum,13299.29,Open,South,Agent_E,,66,0,Medium
+CLM100719,POL70012,24-01-2024,Life,Bronze,146210.85,Pending,East,Agent_E,,73,0,Medium
+CLM100720,POL24021,02-12-2023,Life,Gold,10618.06,Under Review,East,Agent_E,,37,0,Low
+CLM100721,POL27758,05-08-2023,Life,Gold,79145.89,Open,West,Agent_D,,71,0,High
+CLM100722,POL49932,10-04-2024,Liability,Gold,76345.49,Open,West,Agent_D,,63,0,High
+CLM100723,POL10887,01-12-2023,Motor,Silver,148255.56,Pending,North,Agent_C,,29,0,Medium
+CLM100724,POL61864,12-12-2023,Travel,Gold,83345.72,Closed,South,Agent_E,134,71,0,Low
+CLM100725,POL53544,24-01-2024,Liability,Silver,,Rejected,West,Agent_B,,42,0,High
+CLM100726,POL91289,12-10-2023,Travel,Gold,70785.19,Open,South,Agent_C,,22,0,Medium
+CLM100727,POL59792,07-03-2024,Health,Platinum,95532.78,Pending,West,Agent_B,,29,0,High
+CLM100728,POL53193,16-09-2023,Property,Gold,147165.39,Open,Central,Agent_C,,50,1,High
+CLM100729,POL67700,25-03-2023,Liability,Gold,38420.71,Open,East,Agent_B,,53,0,High
+CLM100730,POL53874,26-04-2024,Liability,Silver,2928.21,Open,West,Agent_D,,59,0,Medium
+CLM100731,POL66441,20-01-2023,Health,Platinum,118383.74,Rejected,West,Agent_C,,26,0,Low
+CLM100732,POL95332,06-07-2024,Liability,Platinum,52047.97,Pending,North,Agent_C,,68,0,Medium
+CLM100733,POL87908,23-02-2023,Travel,Silver,110074.68,Closed,Central,Agent_A,133,43,0,Medium
+CLM100734,POL27842,25-12-2023,Liability,Platinum,94424.42,Closed,East,Agent_B,67,68,0,Medium
+CLM100735,POL49378,18-08-2023,Life,Gold,115839.46,Rejected,Central,Agent_C,,55,0,Low
+CLM100736,POL52030,27-10-2024,Liability,Gold,110410.45,Closed,East,Agent_C,43,22,0,Low
+CLM100737,POL89064,12-03-2023,Property,Platinum,50211.53,Rejected,Central,Agent_D,,47,0,High
+CLM100738,POL36326,29-10-2024,Travel,Gold,,Closed,Central,Agent_B,96,64,0,Medium
+CLM100739,POL72784,11-02-2023,Property,Platinum,82129.05,Closed,North,Agent_E,33,31,0,High
+CLM100740,POL51180,01-02-2023,Health,Silver,122119.58,Closed,South,Agent_B,69,51,0,High
+CLM100741,POL33283,11-09-2023,Liability,Silver,26675.82,Closed,Central,Agent_E,31,71,0,Medium
+CLM100742,POL62198,24-07-2023,Travel,Silver,,Pending,East,Agent_C,,39,0,Medium
+CLM100743,POL51830,21-01-2023,Health,Bronze,69961.12,Closed,East,Agent_B,8,38,0,High
+CLM100744,POL48200,28-09-2024,Property,Gold,104460.69,Open,North,Agent_B,,47,0,Medium
+CLM100745,POL92955,06-06-2023,Motor,Silver,94944.51,Rejected,South,Agent_B,,29,0,Medium
+CLM100746,POL74357,02-09-2023,Life,Platinum,121818.9,Closed,East,Agent_B,86,68,0,Low
+CLM100747,POL85481,10-05-2023,Health,Platinum,9933.53,Closed,North,Agent_B,110,61,1,Medium
+CLM100748,POL41775,29-04-2024,Liability,Silver,116540.46,Under Review,East,Agent_A,,70,0,Medium
+CLM100749,POL52714,16-11-2024,Property,Silver,68923.1,Closed,West,Agent_A,70,33,0,Low
+CLM100750,POL59290,28-04-2023,Liability,Silver,44369.66,Open,Central,Agent_C,,48,0,Low
+CLM100751,POL46739,31-07-2024,Travel,Platinum,7049.04,Under Review,South,Agent_E,,29,0,Low
+CLM100752,POL61502,12-08-2023,Health,Bronze,30320.74,Closed,Central,Agent_B,135,46,0,Low
+CLM100015,POL57843,21-04-2024,Liability,Silver,6764.94,Closed,Central,Agent_D,17,67,0,Low
+CLM100754,POL24927,17-12-2024,Property,Platinum,140038.96,Open,West,Agent_C,,25,0,Medium
+CLM100755,POL83905,20-09-2023,Liability,Platinum,77549.85,Pending,South,Agent_C,,54,0,High
+CLM100756,POL36188,13-01-2024,Motor,Silver,148373.84,Closed,Central,Agent_B,68,22,0,Medium
+CLM100757,POL87624,21-06-2023,Health,Gold,,Closed,North,Agent_B,148,40,0,Low
+CLM100758,POL81516,12-09-2024,Property,Platinum,38370.41,Rejected,East,Agent_E,,52,0,Low
+CLM100759,POL33583,13-09-2024,Health,Gold,113116.99,Pending,East,Agent_A,,37,0,Medium
+CLM100760,POL99353,28-04-2023,Liability,Gold,29069.96,Open,North,Agent_C,,35,0,Low
+CLM100761,POL82102,17-06-2023,Property,Bronze,53867.64,Closed,East,Agent_C,161,74,0,High
+CLM100762,POL13527,15-11-2023,Life,Platinum,117235.81,Open,West,Agent_B,,69,0,Medium
+CLM100763,POL70505,21-04-2023,Property,Bronze,129936.84,Pending,North,Agent_C,,26,0,High
+CLM100764,POL37479,15-08-2024,Property,Silver,50122.74,Open,West,Agent_D,,62,0,Low
+CLM100765,POL67469,27-01-2023,Property,Bronze,19109.01,Closed,South,Agent_E,20,47,0,Medium
+CLM100766,POL48185,16-11-2023,Travel,Silver,55518.87,Pending,East,Agent_B,,49,0,Low
+CLM100767,POL19064,12-08-2024,Property,Gold,133478.23,Rejected,West,Agent_E,,23,0,Critical
+CLM100768,POL63627,24-11-2024,Life,Platinum,111624.5,Closed,East,Agent_C,128,71,0,Medium
+CLM100037,POL98208,20-01-2024,Motor,Bronze,134248.31,Rejected,South,Agent_A,,27,0,Low
+CLM100770,POL75444,11-02-2024,Life,Platinum,58303.39,Open,Central,Agent_A,,30,0,Low
+CLM100771,POL28242,23-07-2023,Motor,Gold,146071.68,Rejected,East,Agent_D,,54,0,Low
+CLM100772,POL93012,19-03-2023,Liability,Gold,74682.38,Open,South,Agent_D,,62,0,Medium
+CLM100773,POL49692,29-08-2024,Travel,Gold,74879.75,Closed,North,Agent_B,117,46,0,Low
+CLM100774,POL41722,08-12-2024,Travel,Gold,138684.41,Pending,East,Agent_D,,69,0,Medium
+CLM100775,POL43119,04-10-2024,Travel,Gold,78131.74,Open,North,Agent_C,,34,0,Low
+CLM100776,POL96332,06-09-2023,Motor,Gold,120271.64,Open,South,Agent_B,,30,0,Medium
+CLM100777,POL30203,15-04-2023,Life,Bronze,109198.66,Pending,North,Agent_A,,74,0,High
+CLM100778,POL65460,14-12-2024,Health,Platinum,12299.59,Pending,West,Agent_E,,34,0,High
+CLM100779,POL59412,05-11-2023,Travel,Bronze,90566.77,Closed,Central,Agent_E,131,52,0,High
+CLM100780,POL19694,01-12-2024,Motor,Gold,123440.02,Pending,North,Agent_C,,62,0,Low
+CLM100781,POL68860,06-09-2024,Liability,Silver,82048.42,Closed,West,Agent_C,93,32,0,Low
+CLM100782,POL88372,04-05-2023,Life,Silver,48521.11,Closed,Central,Agent_D,15,25,0,Medium
+CLM100783,POL72814,02-08-2024,Travel,Gold,12470.3,Closed,South,Agent_C,128,55,0,Low
+CLM100784,POL86315,12-02-2023,Property,Gold,99307.42,Open,South,Agent_E,,59,0,Medium
+CLM100785,POL62534,22-12-2023,Life,Gold,46321.13,Under Review,East,Agent_B,,67,0,Low
+CLM100786,POL80040,29-06-2024,Motor,Platinum,90591.93,Closed,West,Agent_E,146,25,0,Low
+CLM100787,POL76402,14-03-2024,Health,Platinum,64204.35,Closed,Central,Agent_D,43,59,0,Low
+CLM100788,POL64827,08-11-2024,Health,Bronze,103619.84,Closed,East,Agent_C,95,40,0,High
+CLM100789,POL81256,15-01-2024,Health,Platinum,53056.27,Under Review,East,Agent_A,,27,0,Low
+CLM100790,POL14818,12-03-2023,Property,Gold,6832.1,Open,South,Agent_D,,55,0,Medium
+CLM100791,POL57124,02-06-2024,Life,Platinum,130570.56,Closed,North,Agent_A,41,39,0,Low
+CLM100792,POL80373,25-10-2024,Travel,Silver,53207.62,Closed,Central,Agent_B,66,34,0,Medium
+CLM100793,POL87833,16-12-2023,Life,Silver,,Closed,South,Agent_E,27,62,0,Low
+CLM100794,POL93647,13-01-2023,Health,Gold,,Open,South,Agent_A,,44,0,High
+CLM100795,POL21138,06-03-2024,Property,Platinum,147014.08,Rejected,North,Agent_C,,40,0,High
+CLM100796,POL24335,16-05-2024,Liability,Platinum,142211.7,Under Review,West,Agent_A,,66,0,Low
+CLM100797,POL42536,19-04-2023,Health,Bronze,11718.65,Closed,West,Agent_D,147,32,0,High
+CLM100798,POL96193,19-03-2024,Motor,Bronze,95808.12,Pending,Central,Agent_E,,22,0,Critical
+CLM100799,POL97122,06-01-2024,Life,Silver,54815.01,Under Review,North,Agent_B,,45,0,High
+CLM100800,POL56531,12-10-2024,Property,Gold,120263.85,Pending,North,Agent_D,,28,0,High
+CLM100801,POL31802,15-04-2024,Liability,Silver,,Open,East,Agent_C,,46,0,Low
+CLM100802,POL94803,25-12-2024,Health,Gold,142942.01,Closed,North,Agent_A,173,42,0,Medium
+CLM100803,POL90304,06-06-2023,Property,Gold,21845.53,Closed,Central,Agent_C,30,36,0,Low
+CLM100804,POL15806,21-03-2024,Liability,Gold,91332.15,Closed,North,Agent_A,59,22,0,Low
+CLM100805,POL83822,30-06-2023,Motor,Gold,117306.14,Pending,East,Agent_E,,33,0,Critical
+CLM100806,POL94545,18-06-2024,Motor,Platinum,5702.45,Under Review,West,Agent_B,,28,0,Low
+CLM100807,POL98797,28-10-2024,Life,Gold,10551.39,Under Review,North,Agent_E,,36,0,Medium
+CLM100808,POL94769,04-10-2023,Property,Platinum,116888.05,Closed,North,Agent_E,131,42,0,High
+CLM100809,POL62378,22-09-2024,Health,Gold,55266.11,Open,Central,Agent_B,,40,0,High
+CLM100810,POL53463,05-07-2024,Health,Platinum,57736.73,Under Review,East,Agent_C,,50,0,Critical
+CLM100811,POL66420,10-05-2024,Travel,Platinum,85303.07,Rejected,North,Agent_B,,46,1,Low
+CLM100812,POL23886,21-04-2024,Health,Silver,90961.68,Open,Central,Agent_A,,54,0,Low
+CLM100813,POL11382,22-03-2024,Life,Silver,102019.78,Under Review,East,Agent_A,,70,0,Medium
+CLM100814,POL22924,29-08-2024,Motor,Bronze,142349.12,Rejected,South,Agent_E,,53,0,Low
+CLM100815,POL43913,02-10-2023,Health,Silver,,Closed,East,Agent_D,1,70,0,Low
+CLM100816,POL39098,27-11-2023,Travel,Silver,114581.13,Closed,South,Agent_A,12,56,0,Low
+CLM100817,POL76935,09-09-2023,Life,Gold,86301.31,Closed,South,Agent_E,4,65,0,High
+CLM100818,POL77999,30-03-2023,Liability,Bronze,79654.25,Open,East,Agent_D,,59,1,Medium
+CLM100819,POL83137,13-10-2023,Life,Silver,60006.09,Closed,East,Agent_B,63,47,0,Low
+CLM100820,POL86089,06-04-2024,Life,Silver,97609.33,Rejected,Central,Agent_D,,32,0,Medium
+CLM100821,POL85397,07-09-2023,Life,Platinum,37816.94,Open,East,Agent_C,,56,0,Low
+CLM100822,POL38971,20-04-2024,Life,Bronze,17460.57,Closed,West,Agent_E,12,29,0,Low
+CLM100823,POL68429,06-08-2024,Life,Bronze,110483.39,Closed,North,Agent_E,121,67,0,High
+CLM100824,POL59036,16-09-2024,Motor,Bronze,75107.07,Closed,East,Agent_E,94,35,0,Medium
+CLM100825,POL61266,15-11-2024,Motor,Platinum,58354.61,Under Review,South,Agent_A,,31,0,High
+CLM100826,POL70694,24-01-2024,Travel,Bronze,84470.07,Closed,South,Agent_C,99,23,0,Low
+CLM100827,POL99070,11-12-2023,Health,Bronze,39635.61,Closed,East,Agent_D,39,67,0,High
+CLM100828,POL87147,30-01-2023,Liability,Platinum,39413.32,Pending,North,Agent_B,,30,0,Medium
+CLM100829,POL75597,21-05-2024,Property,Bronze,67217.83,Closed,North,Agent_D,46,24,0,Medium
+CLM100830,POL29758,29-11-2023,Motor,Bronze,149456.58,Open,Central,Agent_C,,42,1,Medium
+CLM100831,POL55215,06-07-2023,Property,Gold,43193.74,Closed,Central,Agent_D,10,47,0,High
+CLM100832,POL13219,14-05-2024,Travel,Silver,137513.6,Open,Central,Agent_C,,29,0,Medium
+CLM100833,POL73277,06-08-2023,Health,Bronze,73934.43,Open,North,Agent_A,,69,0,Medium
+CLM100834,POL23703,30-12-2023,Motor,Platinum,18834.29,Closed,South,Agent_C,142,23,0,Critical
+CLM100835,POL48722,22-09-2023,Liability,Gold,,Closed,Central,Agent_C,168,27,1,High
+CLM100836,POL64522,15-12-2023,Motor,Silver,68080.38,Under Review,East,Agent_C,,49,0,Medium
+CLM100837,POL21253,14-10-2023,Liability,Silver,134852.52,Closed,Central,Agent_C,108,74,1,Medium
+CLM100838,POL25213,02-09-2024,Liability,Gold,67044.12,Closed,East,Agent_D,58,50,0,Low
+CLM100839,POL28569,19-12-2024,Health,Platinum,13624.72,Closed,East,Agent_E,83,47,0,Low
+CLM100840,POL55656,10-10-2023,Health,Silver,102448.42,Open,South,Agent_A,,46,0,Medium
+CLM100841,POL50880,23-07-2024,Liability,Silver,126905.42,Pending,East,Agent_B,,33,0,High
+CLM100842,POL54966,11-01-2023,Property,Silver,48278.37,Open,Central,Agent_D,,26,0,High
+CLM100843,POL69681,13-06-2024,Property,Bronze,52440.08,Under Review,South,Agent_D,,55,0,Low
+CLM100844,POL37114,15-07-2023,Health,Bronze,10208.39,Open,South,Agent_D,,69,0,Medium
+CLM100845,POL78303,29-03-2023,Motor,Gold,81554.62,Closed,North,Agent_C,64,58,0,Low
+CLM100846,POL73298,05-09-2023,Life,Gold,133754.09,Open,East,Agent_B,,36,0,Critical
+CLM100847,POL55652,21-02-2024,Travel,Platinum,127778.63,Under Review,Central,Agent_D,,65,0,Critical
+CLM100848,POL72411,15-05-2024,Travel,Platinum,,Closed,East,Agent_D,107,57,0,Medium
+CLM100013,POL22795,22-07-2024,Property,Gold,139135.01,Closed,Central,Agent_B,82,36,0,High
+CLM100850,POL67431,04-09-2023,Health,Platinum,95836.15,Open,West,Agent_E,,64,0,Medium
+CLM100851,POL69303,08-12-2024,Motor,Silver,119157.61,Pending,North,Agent_E,,69,0,Medium
+CLM100852,POL51800,02-05-2024,Motor,Silver,76558.98,Open,South,Agent_A,,44,0,Low
+CLM100853,POL18804,23-10-2024,Property,Platinum,18643.69,Rejected,North,Agent_B,,27,0,Medium
+CLM100854,POL49356,29-12-2024,Property,Platinum,30546.57,Open,West,Agent_B,,67,1,Medium
+CLM100855,POL15856,17-05-2024,Life,Gold,21262.09,Open,North,Agent_C,,71,0,Medium
+CLM100856,POL25084,03-04-2024,Liability,Gold,118660.77,Open,North,Agent_D,,65,0,Low
+CLM100857,POL12960,18-01-2023,Travel,Platinum,4429.46,Closed,West,Agent_E,70,64,0,Critical
+CLM100858,POL54967,06-04-2023,Travel,Silver,83326.2,Closed,North,Agent_C,20,66,0,Low
+CLM100859,POL94930,29-10-2023,Travel,Bronze,55652.22,Open,North,Agent_A,,42,0,Medium
+CLM100860,POL24334,15-08-2023,Property,Platinum,120647.43,Pending,West,Agent_E,,44,0,Medium
+CLM100861,POL98754,19-02-2024,Life,Gold,82971.22,Closed,West,Agent_D,147,64,0,Medium
+CLM100862,POL31542,09-12-2024,Liability,Gold,,Closed,South,Agent_A,96,37,0,Medium
+CLM100863,POL41970,07-09-2023,Health,Platinum,13389.21,Closed,Central,Agent_A,31,68,1,Low
+CLM100864,POL77632,10-11-2023,Property,Gold,46738.96,Closed,Central,Agent_D,129,74,0,Low
+CLM100865,POL32865,10-11-2024,Life,Silver,149939.46,Closed,West,Agent_C,173,36,0,Medium
+CLM100866,POL82339,18-08-2024,Property,Gold,107971.01,Open,Central,Agent_D,,46,0,Medium
+CLM100867,POL30989,13-01-2024,Health,Bronze,79091.5,Open,East,Agent_B,,57,0,Low
+CLM100868,POL53383,29-04-2024,Health,Bronze,115490.1,Rejected,East,Agent_E,,32,0,Medium
+CLM100869,POL83380,20-07-2024,Life,Silver,123589.24,Under Review,East,Agent_D,,72,0,Medium
+CLM100870,POL65885,27-06-2024,Motor,Gold,11525.73,Closed,South,Agent_E,14,36,0,Medium
+CLM100871,POL70562,19-12-2023,Health,Gold,145870.77,Closed,Central,Agent_B,46,25,0,High
+CLM100872,POL40389,11-03-2024,Health,Platinum,96529.62,Closed,North,Agent_B,58,42,0,Low
+CLM100873,POL63090,17-07-2024,Liability,Bronze,67771.19,Closed,West,Agent_B,133,34,0,Low
+CLM100874,POL92543,05-12-2023,Health,Platinum,102176.29,Open,Central,Agent_D,,43,1,High
+CLM100875,POL34176,27-12-2023,Health,Platinum,52004.96,Open,South,Agent_C,,40,0,Medium
+CLM100876,POL34430,20-12-2024,Liability,Gold,131755.04,Pending,North,Agent_E,,55,0,Medium
+CLM100877,POL93948,09-04-2024,Motor,Bronze,117149.31,Pending,West,Agent_D,,35,0,High
+CLM100878,POL96154,05-10-2023,Travel,Platinum,96149.19,Open,North,Agent_A,,25,0,High
+CLM100879,POL66640,10-11-2023,Travel,Gold,27703.49,Open,West,Agent_C,,69,0,Critical
+CLM100880,POL61849,15-09-2023,Health,Silver,144956.56,Open,East,Agent_E,,74,0,Medium
+CLM100881,POL13826,25-08-2023,Motor,Bronze,65176.43,Pending,West,Agent_C,,73,0,Medium
+CLM100882,POL90492,04-05-2023,Property,Gold,136651.48,Open,West,Agent_D,,67,0,Medium
+CLM100883,POL35863,17-07-2023,Liability,Silver,8784.22,Open,South,Agent_E,,48,0,Low
+CLM100884,POL68926,20-11-2023,Liability,Platinum,19062.09,Pending,South,Agent_D,,50,0,Medium
+CLM100885,POL87621,03-05-2023,Motor,Platinum,23375.81,Open,South,Agent_B,,68,1,Low
+CLM100886,POL66302,02-07-2024,Life,Platinum,25116.23,Pending,Central,Agent_A,,49,0,High
+CLM100887,POL60965,07-12-2024,Liability,Silver,48737.78,Open,East,Agent_A,,56,0,Medium
+CLM100888,POL10583,09-07-2023,Property,Silver,106545.15,Open,East,Agent_B,,29,1,Medium
+CLM100889,POL38153,16-07-2023,Travel,Platinum,52230.45,Open,West,Agent_C,,37,0,Low
+CLM100890,POL36972,10-08-2023,Travel,Platinum,141165.16,Pending,South,Agent_C,,63,0,Low
+CLM100891,POL46483,10-05-2024,Motor,Silver,134291.42,Rejected,East,Agent_D,,57,0,Low
+CLM100892,POL18200,11-10-2023,Travel,Gold,126967.09,Rejected,East,Agent_A,,51,0,Medium
+CLM100893,POL85674,26-08-2024,Motor,Bronze,,Closed,West,Agent_C,12,39,0,Low
+CLM100894,POL23336,21-06-2024,Liability,Platinum,95441.04,Pending,West,Agent_D,,23,0,Medium
+CLM100045,POL80371,03-09-2024,Motor,Silver,82850.79,Open,North,Agent_B,,70,0,High
+CLM100896,POL34505,17-10-2023,Liability,Gold,19212.96,Closed,North,Agent_D,103,34,0,High
+CLM100897,POL57945,13-04-2023,Motor,Gold,45772.28,Rejected,West,Agent_B,,25,0,Medium
+CLM100898,POL52727,18-07-2023,Motor,Gold,80254.97,Open,North,Agent_A,,47,0,Low
+CLM100899,POL35830,31-10-2023,Liability,Platinum,75634.69,Open,East,Agent_A,,46,0,High
+CLM100900,POL69972,21-08-2023,Motor,Silver,25711.07,Open,West,Agent_C,,51,0,High
+CLM100901,POL24936,05-01-2024,Life,Bronze,141270.24,Open,West,Agent_D,,32,1,Low
+CLM100902,POL44387,03-07-2023,Life,Silver,23552.04,Open,South,Agent_A,,28,0,Medium
+CLM100903,POL97910,06-11-2023,Life,Silver,98980.56,Closed,East,Agent_E,18,52,0,Low
+CLM100904,POL74157,15-01-2023,Motor,Gold,108234.6,Closed,East,Agent_C,120,65,0,High
+CLM100905,POL79168,26-12-2024,Travel,Bronze,90968.27,Rejected,Central,Agent_E,,31,0,Critical
+CLM100906,POL93769,30-06-2024,Property,Platinum,126458.24,Rejected,Central,Agent_D,,60,1,Low
+CLM100907,POL51078,10-05-2023,Life,Platinum,84760.9,Closed,South,Agent_E,73,34,0,High
+CLM100908,POL88246,08-10-2023,Liability,Gold,123872.82,Closed,Central,Agent_D,80,52,0,Medium
+CLM100909,POL60939,16-02-2023,Health,Platinum,4741.84,Closed,North,Agent_C,84,28,0,Critical
+CLM100910,POL90125,25-02-2023,Health,Silver,7296.54,Closed,West,Agent_D,23,70,0,Medium
+CLM100911,POL61451,20-07-2024,Liability,Gold,96397.33,Closed,North,Agent_A,142,63,0,High
+CLM100912,POL86939,27-10-2023,Liability,Bronze,86727.3,Closed,East,Agent_C,117,63,0,Low
+CLM100913,POL24972,15-12-2024,Liability,Silver,97843.93,Closed,Central,Agent_E,3,57,0,Low
+CLM100914,POL55603,10-05-2023,Motor,Bronze,,Closed,North,Agent_E,95,41,0,Low
+CLM100915,POL56135,15-10-2024,Property,Bronze,62779.72,Closed,East,Agent_A,52,25,0,Critical
+CLM100916,POL70012,17-05-2024,Life,Silver,96029.18,Closed,Central,Agent_C,75,28,0,High
+CLM100917,POL90918,16-04-2023,Liability,Bronze,74956.69,Under Review,West,Agent_B,,22,0,High
+CLM100918,POL32613,13-01-2023,Motor,Gold,94261.02,Pending,West,Agent_E,,65,0,Critical
+CLM100919,POL98288,10-08-2024,Liability,Gold,43805.91,Open,Central,Agent_A,,66,0,Low
+CLM100920,POL48986,19-10-2023,Travel,Silver,,Rejected,West,Agent_B,,63,0,Low
+CLM100921,POL90541,25-04-2024,Property,Platinum,72700.25,Closed,South,Agent_C,145,68,0,Low
+CLM100922,POL87354,05-05-2024,Travel,Bronze,120800.88,Rejected,Central,Agent_D,,34,0,Low
+CLM100923,POL21108,27-03-2024,Travel,Silver,102906.13,Pending,South,Agent_B,,43,0,Low
+CLM100924,POL98094,15-12-2023,Liability,Bronze,44966.36,Closed,Central,Agent_C,78,42,0,Medium
+CLM100925,POL27556,08-07-2023,Health,Silver,11409.47,Open,South,Agent_B,,43,0,Low
+CLM100926,POL51049,22-02-2023,Life,Bronze,9457,Closed,West,Agent_A,160,49,0,Low
+CLM100927,POL25448,16-09-2023,Motor,Platinum,66221.02,Closed,West,Agent_C,63,30,0,Low
+CLM100928,POL41270,04-05-2024,Travel,Silver,72895.54,Closed,North,Agent_C,119,47,0,Low
+CLM100929,POL50026,27-04-2023,Liability,Gold,31001.44,Closed,East,Agent_D,95,30,0,Critical
+CLM100930,POL25328,08-03-2023,Travel,Platinum,91195.71,Open,South,Agent_C,,36,1,High
+CLM100931,POL33992,15-02-2024,Motor,Gold,47231.08,Rejected,Central,Agent_A,,31,0,Critical
+CLM100932,POL58929,18-05-2024,Property,Platinum,107895.25,Under Review,West,Agent_C,,45,1,Medium
+CLM100933,POL28528,17-03-2023,Motor,Gold,110262.86,Closed,West,Agent_C,152,63,0,Low
+CLM100934,POL76954,13-08-2024,Motor,Platinum,129186.22,Open,Central,Agent_E,,29,0,High
+CLM100935,POL60916,06-10-2024,Life,Bronze,146318.43,Closed,East,Agent_A,127,45,0,Low
+CLM100936,POL64819,03-12-2024,Health,Gold,20049.54,Open,Central,Agent_E,,37,0,Low
+CLM100937,POL88174,24-02-2023,Travel,Bronze,55895.76,Under Review,South,Agent_B,,70,0,Low
+CLM100938,POL28070,05-06-2023,Health,Silver,84466.86,Open,South,Agent_B,,47,0,Low
+CLM100939,POL85340,02-06-2023,Property,Bronze,48207.83,Closed,North,Agent_A,51,48,0,Low
+CLM100940,POL60293,30-07-2024,Travel,Gold,70237.65,Closed,Central,Agent_E,140,58,0,Low
+CLM100941,POL65448,08-11-2023,Health,Platinum,40487.02,Closed,West,Agent_B,63,25,0,Medium
+CLM100942,POL34347,29-03-2023,Property,Bronze,37563.87,Pending,North,Agent_E,,71,0,Low
+CLM100943,POL73788,12-09-2023,Liability,Platinum,14973.34,Rejected,Central,Agent_C,,45,0,Low
+CLM100944,POL93296,02-05-2023,Life,Silver,43886.69,Open,Central,Agent_C,,40,0,High
+CLM100945,POL80435,25-07-2024,Property,Silver,57930.4,Open,West,Agent_C,,57,0,Low
+CLM100946,POL94575,02-03-2024,Health,Gold,92498.93,Open,East,Agent_C,,60,0,Low
+CLM100947,POL32706,12-09-2024,Motor,Platinum,37616.41,Under Review,Central,Agent_C,,31,0,High
+CLM100948,POL82733,02-09-2024,Travel,Bronze,129863.47,Rejected,North,Agent_A,,46,0,Low
+CLM100949,POL31871,25-09-2024,Life,Bronze,24375.1,Closed,West,Agent_E,39,39,0,Low
+CLM100950,POL74178,20-08-2023,Health,Silver,49451.66,Closed,South,Agent_E,2,40,0,Medium
+CLM100951,POL47858,19-06-2024,Liability,Platinum,86864.21,Pending,East,Agent_C,,57,0,Low
+CLM100952,POL28388,25-01-2024,Life,Platinum,47250.88,Open,West,Agent_B,,31,0,Medium
+CLM100953,POL34523,06-04-2024,Property,Silver,,Under Review,North,Agent_A,,54,0,High
+CLM100954,POL51232,29-03-2024,Health,Bronze,74990.7,Closed,Central,Agent_B,105,71,0,Low
+CLM100955,POL69113,01-11-2023,Motor,Silver,77451.36,Closed,North,Agent_E,7,26,0,Medium
+CLM100956,POL91187,25-08-2024,Motor,Platinum,75064.58,Closed,Central,Agent_C,60,68,1,Medium
+CLM100957,POL17026,15-03-2024,Liability,Bronze,46626.8,Open,West,Agent_C,,70,0,Low
+CLM100958,POL57059,09-11-2023,Motor,Silver,3964.86,Open,East,Agent_D,,56,1,Medium
+CLM100959,POL11256,05-08-2024,Motor,Platinum,141812.3,Pending,West,Agent_D,,65,0,Low
+CLM100960,POL73518,27-09-2024,Travel,Platinum,76063.95,Open,North,Agent_C,,55,0,Medium
+CLM100961,POL27895,03-03-2023,Liability,Gold,145019.65,Closed,North,Agent_B,139,54,0,Low
+CLM100962,POL35575,16-09-2024,Life,Gold,32664.09,Open,South,Agent_A,,42,0,Medium
+CLM100963,POL60324,12-04-2023,Health,Silver,53257.82,Closed,South,Agent_B,89,38,0,Low
+CLM100964,POL83607,01-08-2023,Motor,Bronze,8055.79,Closed,Central,Agent_B,163,43,0,High
+CLM100965,POL76248,02-10-2024,Travel,Bronze,74486.68,Closed,North,Agent_E,178,69,0,Low
+CLM100966,POL95599,05-08-2023,Motor,Gold,132409.75,Pending,South,Agent_B,,58,0,Medium
+CLM100967,POL74876,28-09-2023,Liability,Platinum,98311.88,Closed,South,Agent_B,3,36,0,Medium
+CLM100968,POL63626,07-11-2024,Liability,Gold,70852.73,Closed,West,Agent_E,86,56,0,Medium
+CLM100969,POL99744,25-03-2023,Motor,Silver,80735.27,Closed,Central,Agent_E,1,49,0,Medium
+CLM100970,POL74451,10-06-2023,Property,Gold,127152.27,Pending,East,Agent_E,,28,0,Medium
+CLM100971,POL64477,03-09-2023,Liability,Bronze,64923.7,Under Review,West,Agent_E,,53,0,High
+CLM100972,POL68176,27-06-2023,Health,Silver,132427.13,Pending,Central,Agent_E,,32,0,High
+CLM100973,POL74054,19-07-2024,Life,Bronze,109262.46,Open,Central,Agent_A,,31,0,Low
+CLM100974,POL31922,18-03-2023,Property,Silver,114696.59,Open,West,Agent_D,,30,0,Medium
+CLM100975,POL20835,10-06-2023,Property,Platinum,55207.63,Closed,South,Agent_D,169,35,0,High
+CLM100976,POL84107,03-01-2023,Life,Gold,60386.95,Closed,South,Agent_A,97,34,0,Critical
+CLM100977,POL14044,23-02-2024,Motor,Bronze,85757.11,Open,East,Agent_A,,46,0,High
+CLM100978,POL38905,06-04-2024,Motor,Silver,29600.97,Closed,East,Agent_B,79,23,0,Low
+CLM100979,POL48284,06-12-2024,Health,Gold,83206.83,Closed,Central,Agent_A,27,56,1,Low
+CLM100980,POL14285,31-08-2024,Motor,Bronze,11493,Closed,East,Agent_D,53,28,0,Medium
+CLM100981,POL46025,26-04-2024,Property,Platinum,75886.2,Pending,West,Agent_C,,42,0,Medium
+CLM100982,POL39470,26-10-2023,Property,Silver,114778.42,Open,East,Agent_C,,39,0,Medium
+CLM100983,POL80465,03-02-2023,Liability,Bronze,42318.24,Open,North,Agent_C,,24,0,Medium
+CLM100984,POL47836,26-08-2023,Property,Bronze,148369.06,Pending,Central,Agent_B,,63,0,High
+CLM100985,POL32047,23-10-2023,Life,Platinum,102219.6,Closed,North,Agent_D,136,60,0,Low
+CLM100986,POL69942,24-12-2024,Liability,Silver,18262.25,Pending,Central,Agent_E,,62,0,High
+CLM100987,POL84140,17-10-2023,Motor,Gold,146274.88,Closed,Central,Agent_E,61,70,0,Medium
+CLM100988,POL74921,20-12-2024,Motor,Bronze,59388.61,Open,West,Agent_C,,32,0,Low
+CLM100989,POL82053,09-04-2024,Motor,Silver,119337.14,Rejected,South,Agent_B,,60,0,Medium
+CLM100990,POL76952,14-03-2023,Motor,Silver,,Pending,East,Agent_C,,45,0,High
+CLM100991,POL24838,04-12-2024,Health,Platinum,140872.81,Pending,North,Agent_A,,67,0,Low
+CLM100992,POL85066,28-08-2023,Liability,Bronze,113367.29,Closed,East,Agent_A,108,40,0,Low
+CLM100993,POL24969,28-09-2023,Liability,Gold,30259.15,Closed,Central,Agent_B,126,25,0,Critical
+CLM100994,POL45112,02-10-2024,Health,Bronze,76613.82,Closed,North,Agent_B,16,47,0,Low
+CLM100995,POL81186,26-08-2024,Property,Bronze,,Open,North,Agent_B,,59,0,Medium
+CLM100996,POL58085,08-11-2024,Property,Gold,7272.85,Under Review,Central,Agent_B,,63,0,Medium
+CLM100997,POL81046,22-07-2023,Life,Silver,20986.94,Open,East,Agent_C,,53,0,Medium
+CLM100998,POL15453,11-03-2024,Travel,Bronze,50289.59,Under Review,North,Agent_B,,60,0,Medium
+CLM100999,POL67850,28-04-2023,Property,Silver,71324.75,Closed,East,Agent_B,37,66,0,Low
