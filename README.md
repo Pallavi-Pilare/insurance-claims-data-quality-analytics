@@ -1,5 +1,4 @@
 # 🏥 Insurance Claims Data Quality & Analytics
-### Davies Group | System Support Coordinator — Portfolio Project
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-orange?style=for-the-badge&logo=sqlite)
@@ -12,8 +11,6 @@
 ## 📌 Project Overview
 
 This is an end-to-end **Insurance Claims Data Quality & Analytics** project 
-that simulates the exact responsibilities of a **System Support Coordinator** 
-at **Davies Group, Pune** — a global professional services firm 
 serving insurance and financial clients worldwide.
 
 The project covers:
